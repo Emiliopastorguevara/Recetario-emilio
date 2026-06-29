@@ -1,0 +1,8 @@
+{
+  "name": "Recetario de Emilio",
+  "short_name": "Recetario",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf6ee",
+  "theme_color": "#2f4a2f"
+}
