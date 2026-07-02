@@ -4,19 +4,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Recetario de Emilio</title>
-  <meta name="theme-color" content="#2f4a2f">
   <link rel="stylesheet" href="styles.css">
-  <link rel="manifest" href="manifest.json">
 </head>
 <body>
-  <header class="hero"><div class="hero-content"><div class="logo">🍽️</div><h1>Recetario de Emilio</h1><p>Recetas caseras, rápidas y bien organizadas</p></div></header>
-  <main class="container">
-    <section class="panel"><input id="search" type="search" placeholder="Buscar receta, ingrediente o categoría..."><div id="categories" class="chips"></div></section>
-    <section class="stats"><div><strong id="count">0</strong><span>recetas</span></div><div><strong>v1.0</strong><span>app inicial</span></div><div><strong>2</strong><span>raciones base</span></div></section>
-    <section id="recipes" class="grid"></section>
+  <header>
+    <h1>🍽️ Recetario de Emilio</h1>
+    <p>Recetas caseras, rápidas y bien organizadas</p>
+  </header>
+
+  <main>
+    <input id="search" placeholder="Buscar receta o ingrediente...">
+    <div id="categories"></div>
+    <section id="recipes"></section>
   </main>
-  <dialog id="dialog"><article id="modal" class="modal"></article></dialog>
-  <footer>Recetario vivo · iremos añadiendo nuevas recetas</footer>
-  <script src="recipes.js"></script><script src="app.js"></script>
+
+  <dialog id="dialog">
+    <div id="modal"></div>
+  </dialog>
+
+  <script src="recipes.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
