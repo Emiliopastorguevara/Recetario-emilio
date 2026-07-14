@@ -561,5 +561,91 @@ const recipes = [
       "Comprueba el punto de sal y la cantidad de caldo antes de servir."
     ],
     "tip": "Si quedan secas, añade caldo caliente poco a poco y cocina 20-30 minutos más."
+  },
+  {
+    "title": "Espinacas con garbanzos en Air Fryer",
+    "category": "Air Fryer",
+    "time": "25 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["air fryer", "espinacas", "garbanzos"],
+    "ingredients": [
+      "400 g de garbanzos cocidos",
+      "250 g de espinacas",
+      "2 dientes de ajo",
+      "1 cucharadita de pimentón",
+      "1/2 cucharadita de comino, opcional",
+      "Aceite de oliva",
+      "Sal",
+      "2 huevos, opcional"
+    ],
+    "steps": [
+      "Lava y escurre bien los garbanzos.",
+      "Mezcla los garbanzos con aceite, ajo picado, pimentón, comino y sal.",
+      "Cocina en la Air Fryer a 190 ºC durante 10 minutos.",
+      "Añade las espinacas y mezcla con cuidado.",
+      "Cocina 6-8 minutos más, removiendo una vez.",
+      "Si deseas añadir huevo, haz dos huecos, incorpora los huevos y cocina 4-6 minutos más."
+    ],
+    "tip": "Añade las espinacas en dos tandas si ocupan demasiado volumen al principio."
+  },
+  {
+    "title": "Canelones caseros",
+    "category": "Pastas",
+    "time": "1 h 15 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": ["canelones", "pasta", "horno"],
+    "ingredients": [
+      "16 placas de canelones",
+      "500 g de carne picada",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "200 g de tomate triturado",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "500 ml de bechamel",
+      "Queso rallado"
+    ],
+    "steps": [
+      "Cuece o hidrata las placas de canelones siguiendo las instrucciones del envase.",
+      "Pocha la cebolla y el ajo con aceite.",
+      "Añade la carne picada, salpimienta y cocina hasta que se dore.",
+      "Incorpora el tomate y cocina 10 minutos.",
+      "Rellena las placas y colócalas en una fuente de horno.",
+      "Cubre con bechamel y queso rallado.",
+      "Hornea a 200 ºC durante 20 minutos y gratina al final."
+    ],
+    "tip": "Puedes prepararlos el día anterior y hornearlos justo antes de servir."
+  },
+  {
+    "title": "Alcachofas al Pedro Ximénez",
+    "category": "Verduras",
+    "time": "35 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["alcachofas", "pedro ximénez", "guarnición"],
+    "ingredients": [
+      "6 alcachofas",
+      "1 cebolla pequeña",
+      "2 dientes de ajo",
+      "75 ml de vino Pedro Ximénez",
+      "150 ml de caldo de verduras",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "Taquitos de jamón, opcional"
+    ],
+    "steps": [
+      "Limpia las alcachofas, córtalas por la mitad y resérvalas en agua con limón.",
+      "Pocha la cebolla y el ajo con aceite.",
+      "Añade las alcachofas escurridas y saltéalas unos minutos.",
+      "Incorpora el Pedro Ximénez y deja reducir 2-3 minutos.",
+      "Añade el caldo, salpimienta y cocina tapado durante 20 minutos.",
+      "Destapa y deja reducir la salsa.",
+      "Añade jamón al final si lo deseas."
+    ],
+    "tip": "La salsa debe quedar brillante y ligeramente espesa, no demasiado dulce."
   }
 ];
