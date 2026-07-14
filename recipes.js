@@ -298,5 +298,125 @@ const recipes = [
       "Mezcla aceite, vinagre y miel y reparte el aliño por encima."
     ],
     "tip": "Enfría la pasta antes de añadir el salmón y la burrata."
+  },
+  {
+    "title": "Burrata con tomate",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["burrata", "tomate", "rápida"],
+    "ingredients": [
+      "1 burrata",
+      "2 tomates maduros",
+      "Hojas de albahaca",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta, opcional"
+    ],
+    "steps": [
+      "Lava y corta los tomates en rodajas o gajos.",
+      "Colócalos en una fuente y añade un poco de sal.",
+      "Pon la burrata en el centro.",
+      "Añade albahaca y termina con aceite de oliva.",
+      "Abre la burrata justo antes de servir."
+    ],
+    "tip": "Sírvela con pan tostado para aprovechar el jugo del tomate y la burrata."
+  },
+  {
+    "title": "Merluza en Air Fryer",
+    "category": "Air Fryer",
+    "time": "18 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["air fryer", "merluza", "pescado"],
+    "ingredients": [
+      "2 lomos o rodajas de merluza",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "Limón"
+    ],
+    "steps": [
+      "Seca bien la merluza y sazónala.",
+      "Pincélala ligeramente con aceite.",
+      "Colócala en la cesta sin amontonar.",
+      "Cocina a 190 ºC durante 12-18 minutos, según el grosor.",
+      "Comprueba que se separa fácilmente en lascas y sirve con limón."
+    ],
+    "tip": "Si está congelada, añade unos minutos y revisa el centro antes de servir."
+  },
+  {
+    "title": "Arroz con pollo",
+    "category": "Carnes",
+    "time": "40 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["arroz", "pollo", "plato completo"],
+    "ingredients": [
+      "200 g de arroz",
+      "300 g de pollo troceado",
+      "1/2 cebolla",
+      "1/2 pimiento",
+      "1 diente de ajo",
+      "1 tomate rallado",
+      "500 ml de caldo de pollo",
+      "Aceite de oliva",
+      "Sal",
+      "Pimentón o azafrán"
+    ],
+    "steps": [
+      "Dora el pollo con un poco de aceite y resérvalo.",
+      "Pocha la cebolla, el pimiento y el ajo.",
+      "Añade el tomate rallado y cocina unos minutos.",
+      "Incorpora el arroz, el pollo y el pimentón o azafrán.",
+      "Vierte el caldo caliente y cocina unos 18 minutos.",
+      "Deja reposar 5 minutos antes de servir."
+    ],
+    "tip": "No remuevas demasiado el arroz durante la cocción para que quede suelto."
+  },
+  {
+    "title": "Sándwich de mayonesa y espárragos",
+    "category": "Cenas rápidas",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["sándwich", "espárragos", "rápida"],
+    "ingredients": [
+      "4 rebanadas de pan de molde",
+      "8-10 espárragos blancos en conserva",
+      "Mayonesa",
+      "Sal y pimienta, opcional"
+    ],
+    "steps": [
+      "Escurre y seca bien los espárragos.",
+      "Unta las rebanadas de pan con mayonesa.",
+      "Coloca los espárragos sobre dos rebanadas.",
+      "Añade un poco de pimienta si te gusta.",
+      "Cierra los sándwiches y córtalos por la mitad."
+    ],
+    "tip": "Déjalo unos minutos en la nevera antes de servir para que quede más firme."
+  },
+  {
+    "title": "Sardinas a la plancha sin olores",
+    "category": "Pescados",
+    "time": "12 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["sardinas", "plancha", "sin olores"],
+    "ingredients": [
+      "10 sardinas",
+      "2 hojas de papel de horno",
+      "Sal"
+    ],
+    "steps": [
+      "Reparte cinco sardinas sobre cada hoja de papel de horno.",
+      "Añade sal por encima.",
+      "Cierra cada papel formando un paquete bien doblado, como un sobre.",
+      "Coloca los paquetes directamente sobre una sartén caliente.",
+      "Cocina 4 minutos por cada lado.",
+      "Abre con cuidado y sirve inmediatamente."
+    ],
+    "tip": "No necesitan aceite; el paquete reduce mucho el olor y mantiene las sardinas jugosas."
   }
 ];
