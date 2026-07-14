@@ -1,9 +1,11 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#365b3c">
   <title>Recetario de Emilio</title>
+  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,9 +15,10 @@
   </header>
 
   <main>
-    <input id="search" placeholder="Buscar receta o ingrediente...">
-    <div id="categories"></div>
-    <section id="recipes"></section>
+    <input id="search" type="search" placeholder="Buscar receta o ingrediente..." aria-label="Buscar receta o ingrediente">
+    <nav id="categories" aria-label="Categorías"></nav>
+    <p class="count"><span id="count">0</span> recetas</p>
+    <section id="recipes" class="grid"></section>
   </main>
 
   <dialog id="dialog">
