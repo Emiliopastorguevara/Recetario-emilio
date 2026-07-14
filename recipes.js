@@ -418,5 +418,148 @@ const recipes = [
       "Abre con cuidado y sirve inmediatamente."
     ],
     "tip": "No necesitan aceite; el paquete reduce mucho el olor y mantiene las sardinas jugosas."
+  },
+  {
+    "title": "Tomate relleno de burrata",
+    "category": "Ensaladas",
+    "time": "15 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["tomate", "burrata", "entrante"],
+    "ingredients": [
+      "2 tomates grandes y firmes",
+      "1 burrata",
+      "Hojas de albahaca",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta",
+      "Crema de vinagre balsámico, opcional"
+    ],
+    "steps": [
+      "Lava los tomates y corta una tapa en la parte superior.",
+      "Vacía parte de la pulpa con una cucharilla y deja los tomates boca abajo unos minutos.",
+      "Escurre la burrata y repártela dentro de los tomates.",
+      "Añade albahaca picada, sal, pimienta y un hilo de aceite.",
+      "Coloca las tapas y termina con crema balsámica si te gusta."
+    ],
+    "tip": "Sírvelo frío y acompáñalo con pan tostado."
+  },
+  {
+    "title": "Sándwich japonés de huevo",
+    "category": "Cenas rápidas",
+    "time": "20 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["sándwich", "huevo", "japonés"],
+    "ingredients": [
+      "4 rebanadas de pan de molde tierno o brioche",
+      "4 huevos",
+      "3 cucharadas de mayonesa",
+      "1 cucharadita de mostaza suave, opcional",
+      "Sal",
+      "Pimienta",
+      "Mantequilla, opcional"
+    ],
+    "steps": [
+      "Cuece los huevos durante 10 minutos y enfríalos.",
+      "Pela los huevos y separa dos yemas.",
+      "Machaca el resto con mayonesa, mostaza, sal y pimienta.",
+      "Unta ligeramente el pan con mantequilla si lo deseas.",
+      "Reparte la mezcla y coloca las yemas enteras en el centro.",
+      "Cierra, presiona suavemente y corta cada sándwich por la mitad."
+    ],
+    "tip": "Déjalo 10 minutos en la nevera antes de cortarlo para que quede más limpio."
+  },
+  {
+    "title": "Sándwich de salmón y mozzarella",
+    "category": "Cenas rápidas",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["sándwich", "salmón", "mozzarella"],
+    "ingredients": [
+      "4 rebanadas de pan de brioche o pan de molde",
+      "100 g de salmón ahumado",
+      "1 bola de mozzarella",
+      "Queso crema",
+      "Rúcula o canónigos",
+      "Pimienta",
+      "Unas gotas de limón"
+    ],
+    "steps": [
+      "Unta las rebanadas con una capa fina de queso crema.",
+      "Reparte la rúcula o los canónigos.",
+      "Añade la mozzarella bien escurrida y cortada en rodajas.",
+      "Coloca el salmón ahumado encima.",
+      "Añade pimienta y unas gotas de limón.",
+      "Cierra los sándwiches y córtalos por la mitad."
+    ],
+    "tip": "Seca bien la mozzarella para evitar que el pan se humedezca."
+  },
+  {
+    "title": "Rape guisado con pimientos, puerro y patatas",
+    "category": "Pescados",
+    "time": "50 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": ["rape", "guiso", "patatas"],
+    "ingredients": [
+      "800 g de rape limpio en trozos",
+      "3 patatas medianas",
+      "1 cebolla",
+      "1 puerro",
+      "1 pimiento rojo",
+      "1 pimiento verde",
+      "2 dientes de ajo",
+      "200 g de tomate triturado",
+      "750 ml de caldo de pescado",
+      "100 ml de vino blanco",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta",
+      "Pimentón"
+    ],
+    "steps": [
+      "Pocha la cebolla, el puerro, los pimientos y el ajo con aceite.",
+      "Añade el tomate y cocina unos 10 minutos.",
+      "Incorpora el pimentón y el vino blanco y deja que reduzca.",
+      "Añade las patatas chascadas y el caldo de pescado.",
+      "Cuece durante 20-25 minutos, hasta que las patatas estén casi tiernas.",
+      "Incorpora el rape salpimentado y cocina 6-8 minutos más.",
+      "Deja reposar unos minutos antes de servir."
+    ],
+    "tip": "Se puede preparar el día anterior; añade el rape al recalentar para que no se pase."
+  },
+  {
+    "title": "Lentejas en Crock-Pot",
+    "category": "Guisos",
+    "time": "7 h",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": ["crock-pot", "lentejas", "guiso"],
+    "ingredients": [
+      "300 g de lentejas pardinas",
+      "1 chorizo",
+      "1 cebolla",
+      "1 zanahoria",
+      "1 patata",
+      "1 pimiento verde",
+      "2 dientes de ajo",
+      "1 tomate rallado",
+      "1 cucharadita de pimentón",
+      "1 hoja de laurel",
+      "1,2 litros de caldo de pollo o verduras",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Lava las lentejas y colócalas en la Crock-Pot.",
+      "Añade la cebolla, la zanahoria, la patata, el pimiento, el ajo y el tomate.",
+      "Incorpora el chorizo, el pimentón, el laurel y un chorrito de aceite.",
+      "Cubre con el caldo y mezcla suavemente.",
+      "Cocina 7 horas en temperatura baja o 4 horas en alta.",
+      "Comprueba el punto de sal y la cantidad de caldo antes de servir."
+    ],
+    "tip": "Si quedan secas, añade caldo caliente poco a poco y cocina 20-30 minutos más."
   }
 ];
