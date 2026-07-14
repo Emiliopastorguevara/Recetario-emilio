@@ -5,11 +5,7 @@ const recipes = [
     "time": "30 min",
     "servings": "2 personas",
     "difficulty": "Fácil",
-    "tags": [
-      "pescado",
-      "guiso",
-      "tradicional"
-    ],
+    "tags": ["pescado", "guiso", "tradicional"],
     "ingredients": [
       "2 rodajas de corvina",
       "1 cebolla pequeña",
@@ -35,11 +31,7 @@ const recipes = [
     "time": "35 min",
     "servings": "2 personas",
     "difficulty": "Fácil",
-    "tags": [
-      "air fryer",
-      "pollo",
-      "patatas"
-    ],
+    "tags": ["air fryer", "pollo", "patatas"],
     "ingredients": [
       "2 muslos de pollo",
       "2 patatas medianas",
@@ -63,11 +55,7 @@ const recipes = [
     "time": "15 min",
     "servings": "2 personas",
     "difficulty": "Muy fácil",
-    "tags": [
-      "ensalada",
-      "legumbres",
-      "verano"
-    ],
+    "tags": ["ensalada", "legumbres", "verano"],
     "ingredients": [
       "400 g de garbanzos cocidos",
       "1 tomate",
@@ -92,11 +80,7 @@ const recipes = [
     "time": "20 min",
     "servings": "2 personas",
     "difficulty": "Fácil",
-    "tags": [
-      "cena fría",
-      "verano",
-      "huevos"
-    ],
+    "tags": ["cena fría", "verano", "huevos"],
     "ingredients": [
       "4 huevos",
       "80 g de atún",
@@ -119,11 +103,7 @@ const recipes = [
     "time": "20 min",
     "servings": "2 personas",
     "difficulty": "Fácil",
-    "tags": [
-      "pescado",
-      "plancha",
-      "rápida"
-    ],
+    "tags": ["pescado", "plancha", "rápida"],
     "ingredients": [
       "2 filetes de pez espada",
       "Pimientos asados",
@@ -145,11 +125,7 @@ const recipes = [
     "time": "15 min",
     "servings": "2 personas",
     "difficulty": "Muy fácil",
-    "tags": [
-      "ensalada",
-      "legumbres",
-      "verano"
-    ],
+    "tags": ["ensalada", "legumbres", "verano"],
     "ingredients": [
       "400 g de alubias blancas cocidas",
       "1 tomate",
@@ -173,11 +149,7 @@ const recipes = [
     "time": "45 min",
     "servings": "2-3 personas",
     "difficulty": "Media",
-    "tags": [
-      "carne",
-      "guiso",
-      "clásica"
-    ],
+    "tags": ["carne", "guiso", "clásica"],
     "ingredients": [
       "400 g de carne picada",
       "1 huevo",
@@ -202,11 +174,7 @@ const recipes = [
     "time": "40 min",
     "servings": "2 personas",
     "difficulty": "Fácil",
-    "tags": [
-      "cerdo",
-      "guiso",
-      "aprovechamiento"
-    ],
+    "tags": ["cerdo", "guiso", "aprovechamiento"],
     "ingredients": [
       "Lomo de cerdo",
       "Zanahoria",
@@ -222,5 +190,113 @@ const recipes = [
       "Sirve con zanahorias y puré de patata."
     ],
     "tip": "Guárdalo con algo de caldo para que no se seque en la nevera."
+  },
+  {
+    "title": "Ensalada de melocotón",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["ensalada", "melocotón", "verano"],
+    "ingredients": [
+      "Cogollitos de lechuga o rúcula",
+      "1 tomate",
+      "1 melocotón",
+      "Mozzarella",
+      "Pistachos",
+      "Aceite de oliva virgen extra",
+      "Vinagre de Módena",
+      "Sal"
+    ],
+    "steps": [
+      "Lava y corta los cogollitos o la rúcula.",
+      "Trocea el tomate, el melocotón y la mozzarella.",
+      "Coloca todos los ingredientes en una fuente.",
+      "Añade los pistachos.",
+      "Aliña con aceite, vinagre de Módena y sal."
+    ],
+    "tip": "El melocotón puede marcarse brevemente en la plancha para potenciar su sabor."
+  },
+  {
+    "title": "Ensalada de higos",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": ["ensalada", "higos", "queso de cabra"],
+    "ingredients": [
+      "Bolsa de ensalada variada, rúcula o canónigos",
+      "4-6 higos",
+      "Queso de cabra",
+      "Uvas",
+      "Pasas",
+      "Aceite de oliva virgen extra",
+      "Vinagre",
+      "Sal"
+    ],
+    "steps": [
+      "Coloca la ensalada en una fuente.",
+      "Lava y corta los higos y las uvas.",
+      "Añade el queso de cabra y las pasas.",
+      "Aliña con aceite, vinagre y sal."
+    ],
+    "tip": "Puedes añadir nueces y una cucharadita de miel al aliño."
+  },
+  {
+    "title": "Ensalada de pimientos",
+    "category": "Ensaladas",
+    "time": "15 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["ensalada", "pimientos", "langostinos"],
+    "ingredients": [
+      "1 lata de pimientos asados",
+      "Cebolla al gusto",
+      "1 tomate",
+      "1 aguacate",
+      "Langostinos",
+      "2 cucharadas de zumo de limón",
+      "1 cucharada de salsa de soja",
+      "Cilantro",
+      "Aceite de oliva",
+      "Sal",
+      "Ajo, opcional"
+    ],
+    "steps": [
+      "Pon una base de pimientos asados.",
+      "Añade la cebolla picada.",
+      "Incorpora el tomate cortado en dados y aliña con aceite y sal.",
+      "Machaca o trocea el aguacate y mézclalo con el zumo de limón y la salsa de soja.",
+      "Reparte la mezcla de aguacate por encima.",
+      "Decora con los langostinos y añade un poco de cilantro."
+    ],
+    "tip": "Si los langostinos son congelados, saltéalos antes con un poco de aceite y ajo."
+  },
+  {
+    "title": "Ensalada de pasta con salmón y burrata",
+    "category": "Ensaladas",
+    "time": "20 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": ["pasta", "salmón", "burrata"],
+    "ingredients": [
+      "Pasta de vegetales para 2 personas",
+      "1 aguacate",
+      "Salmón ahumado",
+      "Nueces",
+      "Albahaca fresca",
+      "1 burrata",
+      "Aceite de oliva",
+      "Vinagre",
+      "Miel",
+      "Sal"
+    ],
+    "steps": [
+      "Cuece la pasta con un poco de sal y déjala enfriar.",
+      "Añade el aguacate, el salmón ahumado, las nueces y la albahaca.",
+      "Coloca la burrata sobre la ensalada.",
+      "Mezcla aceite, vinagre y miel y reparte el aliño por encima."
+    ],
+    "tip": "Enfría la pasta antes de añadir el salmón y la burrata."
   }
 ];
