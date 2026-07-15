@@ -647,5 +647,432 @@ const recipes = [
       "Añade jamón al final si lo deseas."
     ],
     "tip": "La salsa debe quedar brillante y ligeramente espesa, no demasiado dulce."
-  }
+  },
+  {
+  "title": "Revuelto de champiñones y jamón",
+  "category": "Huevos",
+  "time": "20 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "revuelto",
+    "champiñones",
+    "jamón"
+  ],
+  "ingredients": [
+    "400 g de champiñones laminados",
+    "4 huevos grandes",
+    "150 g de jamón picado",
+    "Aceite de oliva",
+    "Sal",
+    "Perejil picado"
+  ],
+  "steps": [
+    "Calienta un poco de aceite en una sartén amplia.",
+    "Añade los champiñones y cocínalos primero a fuego fuerte para que pierdan el agua.",
+    "Baja a fuego medio y continúa hasta que estén bien pochados.",
+    "Incorpora el jamón picado y saltéalo brevemente con los champiñones.",
+    "Bate los huevos con una pizca de sal y viértelos en la sartén.",
+    "Remueve y mezcla hasta que el huevo quede cuajado pero jugoso.",
+    "Sirve en una fuente y termina con un poco de perejil picado."
+  ],
+  "tip": "Retira el revuelto del fuego un poco antes de que el huevo esté completamente cuajado; terminará de hacerse con el calor residual."
+},
+  {
+  "title": "Dorada al horno",
+  "category": "Pescados",
+  "time": "30 min",
+  "servings": "2 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "dorada",
+    "horno",
+    "pescado"
+  ],
+  "ingredients": [
+    "1 dorada de unos 800 g, limpia y abierta",
+    "2 patatas medianas",
+    "1 cebolla",
+    "1 limón",
+    "100 ml de vino blanco",
+    "Aceite de oliva virgen extra",
+    "Sal",
+    "Pimienta",
+    "Perejil"
+  ],
+  "steps": [
+    "Precalienta el horno a 200 ºC.",
+    "Corta las patatas y la cebolla en rodajas finas, colócalas en una fuente, añade aceite y sal, y hornéalas 15 minutos.",
+    "Salpimienta la dorada y haz dos cortes en el lomo.",
+    "Colócala sobre las patatas, introduce unas rodajas de limón en los cortes y añade el vino blanco.",
+    "Hornea entre 15 y 18 minutos, según el tamaño del pescado.",
+    "Sirve con el jugo de la fuente y perejil picado."
+  ],
+  "tip": "La dorada estará lista cuando la carne se separe fácilmente de la espina; evita cocinarla de más para que no quede seca."
+},
+  {
+  "title": "Lubina al horno",
+  "category": "Pescados",
+  "time": "30 min",
+  "servings": "2 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "lubina",
+    "horno",
+    "pescado"
+  ],
+  "ingredients": [
+    "1 lubina de unos 800 g, limpia",
+    "2 patatas medianas",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "100 ml de vino blanco",
+    "1 limón",
+    "Aceite de oliva virgen extra",
+    "Sal",
+    "Pimienta"
+  ],
+  "steps": [
+    "Precalienta el horno a 200 ºC.",
+    "Corta las patatas y la cebolla finas, sazónalas y hornéalas con aceite durante 15 minutos.",
+    "Salpimienta la lubina y colócala encima de las patatas.",
+    "Añade el ajo laminado, el vino blanco y unas rodajas de limón.",
+    "Hornea durante 15-18 minutos, dependiendo del tamaño.",
+    "Riega la lubina con el jugo de la fuente antes de servir."
+  ],
+  "tip": "Puedes pedir en la pescadería que la abran a la espalda; en ese caso necesitará unos minutos menos de horno."
+},
+  {
+  "title": "Ensalada de tomate, aguacate y langostinos",
+  "category": "Ensaladas",
+  "time": "15 min",
+  "servings": "2 personas",
+  "difficulty": "Muy fácil",
+  "tags": [
+    "ensalada",
+    "aguacate",
+    "langostinos",
+    "verano"
+  ],
+  "ingredients": [
+    "2 tomates maduros",
+    "1 aguacate",
+    "200 g de langostinos cocidos y pelados",
+    "1/4 de cebolla morada, opcional",
+    "Aceite de oliva virgen extra",
+    "Zumo de 1/2 lima",
+    "1 cucharadita de miel",
+    "1 cucharadita de mostaza suave",
+    "Sal",
+    "Pimienta"
+  ],
+  "steps": [
+    "Corta los tomates y el aguacate en trozos y colócalos en una fuente.",
+    "Añade los langostinos y la cebolla morada cortada muy fina.",
+    "Mezcla el aceite, la lima, la miel, la mostaza, la sal y la pimienta.",
+    "Aliña la ensalada justo antes de servir y mezcla con cuidado."
+  ],
+  "tip": "Añade el aguacate al final y mézclalo suavemente para que mantenga su forma."
+},
+  {
+  "title": "Ensalada de burrata, tomate y fresas",
+  "category": "Ensaladas",
+  "time": "10 min",
+  "servings": "2 personas",
+  "difficulty": "Muy fácil",
+  "tags": [
+    "burrata",
+    "fresas",
+    "tomate",
+    "ensalada"
+  ],
+  "ingredients": [
+    "1 burrata",
+    "2 tomates maduros",
+    "150 g de fresas",
+    "Un puñado de rúcula, opcional",
+    "Aceite de oliva virgen extra",
+    "Crema de vinagre balsámico",
+    "Sal",
+    "Pimienta",
+    "Hojas de albahaca"
+  ],
+  "steps": [
+    "Corta los tomates y las fresas y distribúyelos en una fuente.",
+    "Añade la rúcula si la utilizas.",
+    "Coloca la burrata en el centro y ábrela ligeramente.",
+    "Aliña con aceite, sal, pimienta y unas gotas de crema balsámica.",
+    "Termina con hojas de albahaca y sirve inmediatamente."
+  ],
+  "tip": "Saca la burrata del frigorífico 15 minutos antes para que esté más cremosa y sabrosa."
+},
+  {
+  "title": "Ensalada de burrata, tomate, aguacate y pistachos",
+  "category": "Ensaladas",
+  "time": "10 min",
+  "servings": "2 personas",
+  "difficulty": "Muy fácil",
+  "tags": [
+    "burrata",
+    "aguacate",
+    "pistachos",
+    "ensalada"
+  ],
+  "ingredients": [
+    "1 burrata",
+    "2 tomates maduros",
+    "1 aguacate",
+    "30 g de pistachos pelados",
+    "Aceite de oliva virgen extra",
+    "Vinagre balsámico",
+    "Sal",
+    "Pimienta",
+    "Albahaca, opcional"
+  ],
+  "steps": [
+    "Corta los tomates y el aguacate y colócalos en una fuente.",
+    "Pon la burrata en el centro.",
+    "Pica ligeramente los pistachos y repártelos por encima.",
+    "Aliña con aceite, vinagre balsámico, sal y pimienta.",
+    "Añade albahaca y sirve."
+  ],
+  "tip": "Los pistachos aportan el punto crujiente; añádelos justo antes de servir."
+},
+  {
+  "title": "Calabacín con miel y burrata",
+  "category": "Verduras",
+  "time": "25 min",
+  "servings": "2 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "calabacín",
+    "burrata",
+    "miel",
+    "horno"
+  ],
+  "ingredients": [
+    "2 calabacines medianos",
+    "1 burrata",
+    "1 cucharada de miel",
+    "Aceite de oliva virgen extra",
+    "Crema de vinagre balsámico",
+    "Sal",
+    "Pimienta",
+    "Un puñado de nueces o pistachos, opcional"
+  ],
+  "steps": [
+    "Precalienta el horno a 200 ºC.",
+    "Corta los calabacines en rodajas o tiras, colócalos en una fuente y añade aceite, sal y pimienta.",
+    "Hornea durante 18-20 minutos, hasta que estén tiernos y ligeramente dorados.",
+    "Coloca la burrata sobre el calabacín caliente.",
+    "Añade la miel en hilo y unas gotas de crema balsámica.",
+    "Termina con frutos secos si los utilizas y sirve."
+  ],
+  "tip": "También puedes preparar el calabacín en la Air Fryer a 190 ºC durante 12-15 minutos."
+},
+  {
+  "title": "Patatas guisadas con ternera",
+  "category": "Carnes",
+  "time": "1 h 15 min",
+  "servings": "4 personas",
+  "difficulty": "Media",
+  "tags": [
+    "ternera",
+    "patatas",
+    "guiso",
+    "tradicional"
+  ],
+  "ingredients": [
+    "700 g de ternera para guisar",
+    "5 patatas medianas",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "1 pimiento verde",
+    "2 tomates maduros rallados",
+    "100 ml de vino blanco",
+    "750 ml de caldo de carne",
+    "1 hoja de laurel",
+    "1 cucharadita de pimentón dulce",
+    "Aceite de oliva",
+    "Sal",
+    "Pimienta"
+  ],
+  "steps": [
+    "Salpimienta la carne y dórala en una cazuela con aceite; retírala y reserva.",
+    "Pocha la cebolla, el ajo y el pimiento picados.",
+    "Añade el tomate y cocina 8-10 minutos.",
+    "Incorpora el pimentón, mezcla rápidamente y vierte el vino blanco.",
+    "Devuelve la carne a la cazuela, añade el laurel y el caldo, y cocina tapado 35 minutos.",
+    "Chasca las patatas, añádelas y cocina otros 25 minutos, hasta que estén tiernas.",
+    "Rectifica de sal y deja reposar 10 minutos antes de servir."
+  ],
+  "tip": "Chascar las patatas ayuda a que el caldo espese de forma natural."
+},
+  {
+  "title": "Carrilleras de cerdo en Crock-Pot",
+  "category": "Crock-Pot",
+  "time": "8 h 30 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "carrilleras",
+    "cerdo",
+    "crock-pot",
+    "vino tinto"
+  ],
+  "ingredients": [
+    "1-1,2 kg de carrilleras de cerdo limpias",
+    "1 cebolla",
+    "2 zanahorias",
+    "3 dientes de ajo",
+    "200-250 ml de vino tinto",
+    "200 ml de caldo de carne",
+    "1 hoja de laurel",
+    "Aceite de oliva",
+    "Sal",
+    "Pimienta",
+    "Harina, opcional"
+  ],
+  "steps": [
+    "Salpimienta las carrilleras y pásalas ligeramente por harina si lo deseas.",
+    "Dóralas en una sartén con aceite y colócalas en la Crock-Pot.",
+    "En la misma sartén, pocha la cebolla, la zanahoria y el ajo.",
+    "Añade el vino tinto y deja que hierva 2-3 minutos.",
+    "Vierte todo en la Crock-Pot, incorpora el caldo y el laurel.",
+    "Cocina 8 horas en LOW o 4-5 horas en HIGH.",
+    "Retira las carrilleras, tritura la salsa y redúcela en un cazo si quieres que quede más espesa."
+  ],
+  "tip": "Quedan aún mejor de un día para otro, una vez reposadas en su salsa."
+},
+  {
+  "title": "Pollo al ajillo en Crock-Pot",
+  "category": "Crock-Pot",
+  "time": "5 h 20 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "pollo",
+    "ajo",
+    "crock-pot"
+  ],
+  "ingredients": [
+    "1,2 kg de pollo troceado",
+    "8 dientes de ajo",
+    "150 ml de vino blanco",
+    "100 ml de caldo de pollo",
+    "1 hoja de laurel",
+    "1 cucharadita de tomillo",
+    "Aceite de oliva",
+    "Sal",
+    "Pimienta",
+    "Perejil picado"
+  ],
+  "steps": [
+    "Salpimienta el pollo y dóralo en una sartén con un poco de aceite.",
+    "Pásalo a la Crock-Pot.",
+    "Dora ligeramente los ajos enteros y machacados en la misma sartén.",
+    "Añade el vino blanco, deja hervir 2 minutos y vierte todo sobre el pollo.",
+    "Incorpora el caldo, el laurel y el tomillo.",
+    "Cocina 5-6 horas en LOW o 3 horas en HIGH.",
+    "Espolvorea con perejil antes de servir."
+  ],
+  "tip": "Para una piel más crujiente, pasa el pollo unos minutos bajo el gratinador al terminar."
+},
+  {
+  "title": "Patatas con choco en Crock-Pot",
+  "category": "Crock-Pot",
+  "time": "6 h 30 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "choco",
+    "patatas",
+    "crock-pot",
+    "guiso"
+  ],
+  "ingredients": [
+    "700-800 g de choco limpio y troceado",
+    "4-5 patatas medianas",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "1 pimiento verde",
+    "2 tomates maduros rallados",
+    "100 ml de vino blanco",
+    "400-500 ml de caldo de pescado o agua",
+    "1 hoja de laurel",
+    "1 cucharadita de pimentón dulce",
+    "3-4 cucharadas de aceite de oliva",
+    "Sal"
+  ],
+  "steps": [
+    "Pocha en una sartén la cebolla, el ajo y el pimiento picados.",
+    "Añade el tomate y cocina hasta que el sofrito esté concentrado.",
+    "Incorpora el pimentón, mezcla y vierte el vino blanco; deja hervir 2 minutos.",
+    "Pasa el sofrito a la Crock-Pot y añade el choco, las patatas chascadas, el laurel y el caldo.",
+    "Cocina 6-7 horas en LOW o 3 horas y media-4 horas en HIGH.",
+    "Evita remover durante la cocción para que las patatas no se rompan.",
+    "Deja reposar 15-20 minutos antes de servir."
+  ],
+  "tip": "Añade solo el caldo necesario para casi cubrir los ingredientes; la Crock-Pot apenas pierde líquido."
+},
+  {
+  "title": "Espárragos blancos gratinados",
+  "category": "Verduras",
+  "time": "20 min",
+  "servings": "2 personas",
+  "difficulty": "Fácil",
+  "tags": [
+    "espárragos",
+    "gratinado",
+    "queso"
+  ],
+  "ingredients": [
+    "1 frasco grande de espárragos blancos gruesos",
+    "4 lonchas de jamón cocido o pavo, opcional",
+    "200 ml de bechamel",
+    "50 g de queso rallado",
+    "Sal",
+    "Pimienta",
+    "Nuez moscada"
+  ],
+  "steps": [
+    "Escurre muy bien los espárragos y sécalos con papel de cocina.",
+    "Envuélvelos con jamón cocido o pavo si lo deseas y colócalos en una fuente.",
+    "Cubre con la bechamel y sazona con pimienta y una pizca de nuez moscada.",
+    "Espolvorea el queso rallado.",
+    "Gratina a 220 ºC durante 8-10 minutos, hasta que la superficie esté dorada."
+  ],
+  "tip": "Escurrir bien los espárragos evita que la bechamel quede aguada."
+},
+  {
+  "title": "Paté de salmón y langostinos",
+  "category": "Entrantes",
+  "time": "15 min",
+  "servings": "6 personas",
+  "difficulty": "Muy fácil",
+  "tags": [
+    "paté",
+    "salmón",
+    "langostinos",
+    "aperitivo"
+  ],
+  "ingredients": [
+    "150 g de salmón ahumado",
+    "150 g de langostinos cocidos y pelados",
+    "200 g de queso crema",
+    "1 cucharada de zumo de limón",
+    "1 cucharadita de eneldo, opcional",
+    "Pimienta",
+    "Unas gotas de salsa picante, opcional"
+  ],
+  "steps": [
+    "Reserva un poco de salmón o langostino para decorar.",
+    "Pon el resto de los ingredientes en una batidora o procesador.",
+    "Tritura hasta obtener una crema homogénea, dejando algo de textura si lo prefieres.",
+    "Prueba y ajusta de limón y pimienta.",
+    "Guarda en el frigorífico al menos 1 hora antes de servir.",
+    "Decora y acompaña con tostadas o pan crujiente."
+  ],
+  "tip": "No añadas sal hasta probarlo, porque el salmón ahumado ya aporta bastante."
+}
 ];
