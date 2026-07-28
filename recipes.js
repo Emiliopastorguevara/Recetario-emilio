@@ -1848,5 +1848,261 @@ const recipes = [
       "Sirve inmediatamente."
     ],
     "tip": "Un hilo de miel es opcional; tuesta las nueces para potenciar su sabor."
+  },
+  {
+    "title": "Ensalada de pasta con crema de yogur y aguacate",
+    "category": "Ensaladas",
+    "time": "25 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pasta",
+      "aguacate",
+      "yogur",
+      "atún"
+    ],
+    "ingredients": [
+      "250 g de pasta",
+      "1 aguacate",
+      "2 yogures griegos",
+      "Un puñado de tomates cherry",
+      "1/2 cebolla morada",
+      "2 latas de atún en aceite",
+      "2 huevos duros",
+      "Aceite de oliva",
+      "Sal",
+      "Un poco de leche, si hace falta"
+    ],
+    "steps": [
+      "Cuece la pasta siguiendo las instrucciones del fabricante, escúrrela y deja que se enfríe.",
+      "Pon en una batidora el aguacate pelado, los yogures griegos, un chorrito de aceite y sal.",
+      "Bate hasta formar una salsa. Si queda demasiado espesa, añade un poco de leche.",
+      "Corta los tomates cherry en cuartos y pica muy fina la cebolla morada.",
+      "Mezcla la pasta con los tomates, la cebolla y la salsa de yogur y aguacate.",
+      "Añade el atún escurrido y los huevos duros muy picados.",
+      "Remueve de nuevo hasta que todo quede bien integrado."
+    ],
+    "tip": "Sírvela fresca. Añade la salsa cuando la pasta ya no esté caliente."
+  },
+  {
+    "title": "Canapés de queso y salmón",
+    "category": "Entrantes",
+    "time": "15 min",
+    "servings": "16 canapés",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "canapés",
+      "salmón",
+      "queso",
+      "horno"
+    ],
+    "ingredients": [
+      "4 rebanadas de pan de molde",
+      "4 lonchas de queso",
+      "4 lonchas de salmón ahumado",
+      "Cebolla muy picada",
+      "Azúcar"
+    ],
+    "steps": [
+      "Coloca una loncha de queso sobre cada rebanada de pan.",
+      "Pon una loncha de salmón ahumado encima de cada una.",
+      "Corta cada rebanada en cuatro trozos para obtener 16 canapés.",
+      "Reparte un poco de cebolla muy picada sobre cada canapé.",
+      "Espolvorea ligeramente con azúcar.",
+      "Coloca los canapés en una bandeja y gratina durante 3-4 minutos, hasta que el queso se funda y el azúcar se caramelice.",
+      "Sácalos del horno y sírvelos calientes."
+    ],
+    "tip": "Para un sabor más intenso, sustituye parte del queso por queso roquefort."
+  },
+  {
+    "title": "Arroz negro",
+    "category": "Arroces",
+    "time": "45 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": [
+      "arroz",
+      "tinta de calamar",
+      "sepia",
+      "gambones"
+    ],
+    "ingredients": [
+      "1 vaso de 200 ml lleno de arroz",
+      "3 vasos de fumet de pescado",
+      "2 sobres de tinta de calamar",
+      "250 g de sepia o calamar",
+      "5-6 gambones",
+      "1 cebolla",
+      "1 tomate",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Haz un sofrito con la cebolla y el tomate muy picados, cocinándolos poco a poco.",
+      "Cuando el tomate esté bien integrado, añade la sepia o el calamar troceado y rehoga hasta que empiece a ablandarse.",
+      "Incorpora el arroz y remueve brevemente para nacararlo y que tome el sabor del sofrito.",
+      "Disuelve la tinta en el fumet y vierte el caldo en la paellera.",
+      "Cocina a fuego moderado sin remover.",
+      "Cuando el caldo hierva correctamente, coloca encima los gambones pelados, conservando la cabeza y la cola.",
+      "Deja que el arroz absorba el caldo y repose unos minutos antes de servir."
+    ],
+    "tip": "Dejar cabeza y cola en los gambones mantiene una presentación bonita y permite comerlos sin pelarlos."
+  },
+  {
+    "title": "Lubina o dorada a la sal",
+    "category": "Pescados",
+    "time": "40 min",
+    "servings": "Según tamaño",
+    "difficulty": "Fácil",
+    "tags": [
+      "lubina",
+      "dorada",
+      "sal",
+      "horno"
+    ],
+    "ingredients": [
+      "1 lubina o dorada entera",
+      "2-3 kg de sal especial para hornear, según el tamaño del pescado",
+      "Un poco de agua para humedecer la sal",
+      "Pimientos asados para acompañar, opcional"
+    ],
+    "steps": [
+      "Pon la sal en un recipiente y humedécela ligeramente.",
+      "Forma una cama de sal sobre una bandeja de horno.",
+      "Coloca encima la lubina o la dorada.",
+      "Cubre completamente el pescado con el resto de la sal, sin dejar ninguna parte visible.",
+      "Hornea entre 180 y 200 ºC durante unos 20-30 minutos por cada kilo de peso.",
+      "Saca la bandeja, rompe con cuidado la costra de sal y limpia el pescado antes de servir."
+    ],
+    "tip": "Acompaña muy bien con pimientos asados como guarnición."
+  },
+  {
+    "title": "Paella marinera",
+    "category": "Arroces",
+    "time": "50 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": [
+      "paella",
+      "marisco",
+      "arroz",
+      "fumet"
+    ],
+    "ingredients": [
+      "1 vaso de 200 ml lleno de arroz",
+      "3 vasos de fumet de pescado",
+      "1 cebolla",
+      "1 tomate",
+      "1 diente de ajo",
+      "Gambas peladas",
+      "Langostinos pelados",
+      "Calamar, sepia, choco o chipirón troceado",
+      "Un puñado de chirlas",
+      "Unos cuantos mejillones",
+      "Unas hebras de azafrán",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Haz un sofrito con la cebolla, el ajo y el tomate muy picados.",
+      "Cuando el tomate haya perdido el agua y el sofrito esté hecho, retira el ajo para que solo quede su sabor.",
+      "Añade el calamar, la sepia, el choco o el chipirón y cocina unos 10 minutos, hasta que se ablande.",
+      "Incorpora el arroz y remueve para nacararlo y que tome bien el sabor del sofrito.",
+      "Añade el fumet de pescado y las hebras de azafrán.",
+      "Cuando el caldo empiece a hervir, incorpora las gambas y los langostinos pelados, las chirlas y coloca los mejillones encima.",
+      "Cocina sin mover ni remover hasta que el arroz absorba todo el caldo."
+    ],
+    "tip": "Es un arroz pensado para comer sin mancharse. Como mejora, añade al final gambones, carabineros o cigalas."
+  },
+  {
+    "title": "Merluza al horno con patatas",
+    "category": "Pescados",
+    "time": "35 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "merluza",
+      "patatas",
+      "horno",
+      "pescado"
+    ],
+    "ingredients": [
+      "1 merluza o pescada de unos 800 g, abierta como un libro y sin espinas, cabeza ni cola",
+      "Patatas",
+      "Cebolla",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Pela las patatas y córtalas en rodajas.",
+      "Puedes cocinarlas en el horno a 180 ºC hasta que estén tiernas.",
+      "Como alternativa, mézclalas con aceite en un bol, cúbrelas con film perforado y cocínalas 10 minutos en el microondas.",
+      "Forma una cama de patatas en una fuente de horno y reparte la cebolla por encima.",
+      "Coloca la merluza abierta sobre la cama y sazónala con sal.",
+      "Añade un chorrito de aceite.",
+      "Hornea durante 8-10 minutos, dependiendo de cómo te guste el punto del pescado."
+    ],
+    "tip": "La preparación previa de las patatas en el microondas reduce mucho el tiempo de horno."
+  },
+  {
+    "title": "Ensalada de endivias",
+    "category": "Ensaladas",
+    "time": "15 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "endivias",
+      "jamón york",
+      "queso",
+      "maíz"
+    ],
+    "ingredients": [
+      "3 endivias",
+      "Jamón de York",
+      "Quesitos en porciones",
+      "Maíz",
+      "Queso roquefort, opcional",
+      "Salsa roquefort, opcional"
+    ],
+    "steps": [
+      "Separa las hojas de las endivias una a una y lávalas bien.",
+      "Colócalas en una bandeja formando pétalos, con las puntas hacia fuera y las bases hacia el centro.",
+      "Trocea muy fino el jamón de York y repártelo por encima.",
+      "Corta los quesitos en trozos pequeños y distribúyelos sobre las hojas.",
+      "Añade maíz por encima y sirve."
+    ],
+    "tip": "Para una versión más intensa, añade trocitos de roquefort o acompaña con salsa roquefort."
+  },
+  {
+    "title": "Espaguetis negros con gulas",
+    "category": "Pastas",
+    "time": "25 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pasta negra",
+      "gulas",
+      "gambas",
+      "ajo"
+    ],
+    "ingredients": [
+      "Pasta negra",
+      "1 paquete de gulas",
+      "Gambas peladas y descongeladas",
+      "Ajo",
+      "Guindilla",
+      "Aceite de oliva",
+      "Mejillones al natural o berberechos al natural, opcional"
+    ],
+    "steps": [
+      "Cuece la pasta negra siguiendo las instrucciones del fabricante.",
+      "Calienta aceite en una sartén a fuego moderado.",
+      "Añade el ajo y la guindilla para aromatizar el aceite.",
+      "Incorpora las gulas y las gambas peladas, previamente descongeladas y sin cocer.",
+      "Remueve durante unos minutos hasta que las gambas estén hechas.",
+      "Añade los espaguetis escurridos a la sartén y mezcla todo bien.",
+      "Sirve inmediatamente."
+    ],
+    "tip": "Como mejora, añade una lata de mejillones al natural o de berberechos al natural. No uses mejillones en escabeche."
   }
 ];
