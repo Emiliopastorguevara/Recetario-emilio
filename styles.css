@@ -11,3 +11,40 @@ dialog{border:0;border-radius:24px;padding:0;width:min(92vw,780px);max-height:88
 @media(max-width:700px){h1{font-size:29px}.stats{grid-template-columns:1fr}.info{grid-template-columns:repeat(2,1fr)}}
 
 .print-button{display:block;margin:26px auto 4px;border:0;border-radius:999px;background:var(--green);color:#fff;padding:12px 20px;font-size:16px;font-weight:600;cursor:pointer}.print-button:hover{background:var(--green2)}.print-button:focus-visible{outline:3px solid rgba(47,74,47,.3);outline-offset:3px}
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  header,
+  main,
+  .close,
+  .print-button {
+    display: none !important;
+  }
+
+  dialog {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    max-width: none !important;
+    max-height: none !important;
+    overflow: visible !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background: white !important;
+  }
+
+  dialog::backdrop {
+    display: none !important;
+  }
+
+  #modal {
+    padding: 0 !important;
+  }
+
+  @page {
+    margin: 15mm;
+  }
+}
