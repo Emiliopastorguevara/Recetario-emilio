@@ -1,4 +1,4 @@
-const CACHE_NAME = "recetario-emilio-v3";;
+const CACHE_NAME = "recetario-emilio-v4";
 
 const FILES_TO_CACHE = [
   "./",
