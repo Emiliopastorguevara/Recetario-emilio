@@ -1,6 +1,10 @@
 
 const grid=document.getElementById("recipes"),search=document.getElementById("search"),categoriesEl=document.getElementById("categories"),countEl=document.getElementById("count"),dialog=document.getElementById("dialog"),modal=document.getElementById("modal");
-let activeCategory="Todas", currentRecipe=null;const categories=["Todas",...Array.from(new Set(recipes.map(r=>r.category)))];
+let activeCategory="Todas", currentRecipe=null;const categories=[
+  "Todas",
+  ...Array.from(new Set(recipes.map(r => r.category)))
+    .sort((a, b) => a.localeCompare(b, "es", { sensitivity: "base" }))
+];
 function renderCategories(){categoriesEl.innerHTML="";categories.forEach(cat=>{const b=document.createElement("button");b.className="chip"+(cat===activeCategory?" active":"");b.textContent=cat;b.addEventListener("click",()=>{activeCategory=cat;renderCategories();renderRecipes()});categoriesEl.appendChild(b)})}
 function textForSearch(r){return[r.title,r.category,r.time,r.servings,r.difficulty,r.tags.join(" "),r.ingredients.join(" "),r.steps.join(" "),r.tip].join(" ").toLowerCase()}
 function renderRecipes(){const q=search.value.trim().toLowerCase();const filtered=[...recipes]
