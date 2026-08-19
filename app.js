@@ -1,15 +1,20 @@
 
 const grid=document.getElementById("recipes"),search=document.getElementById("search"),categoriesEl=document.getElementById("categories"),countEl=document.getElementById("count"),dialog=document.getElementById("dialog"),modal=document.getElementById("modal");
-let activeCategory="Todas", currentRecipe=null;const categories=[
+let activeCategory = "Todas", currentRecipe = null;
+
+const categories = [
   "Todas",
-  ...Array.from(new Set(recipes.map(r => r.category)))
+  ...Array.from(new Set(recipes.flatMap(recipeCategories)))
     .sort((a, b) => a.localeCompare(b, "es", { sensitivity: "base" }))
 ];
+function recipeCategories(r) {
+  return [r.category, ...(r.extraCategories || [])];
+}
 function renderCategories(){categoriesEl.innerHTML="";categories.forEach(cat=>{const b=document.createElement("button");b.className="chip"+(cat===activeCategory?" active":"");b.textContent=cat;b.addEventListener("click",()=>{activeCategory=cat;renderCategories();renderRecipes()});categoriesEl.appendChild(b)})}
 function textForSearch(r){return[r.title,r.category,r.time,r.servings,r.difficulty,r.tags.join(" "),r.ingredients.join(" "),r.steps.join(" "),r.tip].join(" ").toLowerCase()}
 function renderRecipes(){const q=search.value.trim().toLowerCase();const filtered=[...recipes]
   .sort((a, b) => a.title.localeCompare(b.title, "es", { sensitivity: "base" }))
-  .filter(r=>activeCategory==="Todas"||r.category===activeCategory).filter(r=>textForSearch(r).includes(q));countEl.textContent=filtered.length;grid.innerHTML="";if(!filtered.length){grid.innerHTML='<div class="empty">No he encontrado recetas con esa búsqueda.</div>';return}filtered.forEach(r=>{const card=document.createElement("article");card.className="card";card.innerHTML=`<h2>${r.title}</h2><div class="meta">${r.category} · ${r.time} · ${r.servings} · ${r.difficulty}</div><div class="tags">${r.tags.map(t=>`<span class="tag">${t}</span>`).join("")}</div>`;card.addEventListener("click",()=>openRecipe(r));grid.appendChild(card)})}
+  .filter(r=>activeCategory==="Todas"||recipeCategories(r).includes(activeCategory)).filter(r=>textForSearch(r).includes(q));countEl.textContent=filtered.length;grid.innerHTML="";if(!filtered.length){grid.innerHTML='<div class="empty">No he encontrado recetas con esa búsqueda.</div>';return}filtered.forEach(r=>{const card=document.createElement("article");card.className="card";card.innerHTML=`<h2>${r.title}</h2><div class="meta">${r.category} · ${r.time} · ${r.servings} · ${r.difficulty}</div><div class="tags">${r.tags.map(t=>`<span class="tag">${t}</span>`).join("")}</div>`;card.addEventListener("click",()=>openRecipe(r));grid.appendChild(card)})}
 function openRecipe(r){currentRecipe=r;modal.innerHTML=`<button class="close" onclick="dialog.close()" aria-label="Cerrar">×</button><h2>${r.title}</h2><div class="meta">${r.category}</div><div class="info"><div><strong>Tiempo</strong>${r.time}</div><div><strong>Raciones</strong>${r.servings}</div><div><strong>Dificultad</strong>${r.difficulty}</div><div><strong>Categoría</strong>${r.category}</div></div><h3>Ingredientes</h3><ul>${r.ingredients.map(i=>`<li>${i}</li>`).join("")}</ul><h3>Preparación</h3><ol>${r.steps.map(s=>`<li>${s}</li>`).join("")}</ol><h3>Consejo</h3><p>${r.tip}</p><button class="print-button" type="button" onclick="printRecipe()">🖨️ Imprimir receta</button>`;dialog.showModal()}
 
 search.addEventListener("input",renderRecipes);renderCategories();renderRecipes();

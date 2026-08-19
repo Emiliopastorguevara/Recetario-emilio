@@ -2104,5 +2104,600 @@ const recipes = [
       "Sirve inmediatamente."
     ],
     "tip": "Como mejora, añade una lata de mejillones al natural o de berberechos al natural. No uses mejillones en escabeche."
+  },
+  {
+    "title": "Ensalada de sandía y melón",
+    "category": "Ensaladas",
+    "time": "15 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "ensalada",
+      "sandía",
+      "melón",
+      "verano"
+    ],
+    "ingredients": [
+      "Sandía",
+      "Melón",
+      "Pepino",
+      "Queso feta",
+      "Nueces",
+      "Albahaca",
+      "Aceite de oliva virgen extra",
+      "Vinagre",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Corta la sandía, el melón y el pepino en trozos regulares.",
+      "Añade el queso feta, las nueces y la albahaca.",
+      "Aliña con aceite, vinagre, sal y pimienta.",
+      "Mezcla con cuidado y sirve fresca."
+    ],
+    "tip": "Sírvela bien fría y aliña justo antes de comer."
+  },
+  {
+    "title": "Calabacín salteado con gulas, gambas y huevos fritos",
+    "category": "Verduras",
+    "time": "15 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "calabacín",
+      "gulas",
+      "gambas",
+      "huevo"
+    ],
+    "ingredients": [
+      "2 calabacines grandes",
+      "1 paquete de gulas",
+      "Gambas o langostinos pelados",
+      "3 huevos",
+      "Cebolla",
+      "Aceite de oliva virgen extra",
+      "Sal"
+    ],
+    "steps": [
+      "Corta los calabacines y la cebolla y saltéalos con aceite hasta que estén tiernos.",
+      "Añade las gambas o langostinos y cocina hasta que estén hechos.",
+      "Incorpora las gulas y mezcla unos minutos.",
+      "Fríe los huevos aparte.",
+      "Sirve el salteado y coloca los huevos fritos por encima."
+    ],
+    "tip": "No cocines demasiado las gulas para que mantengan su textura."
+  },
+  {
+    "title": "Hojaldre de pera, queso azul y bacon",
+    "category": "Entrantes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "hojaldre",
+      "pera",
+      "queso azul",
+      "bacon"
+    ],
+    "ingredients": [
+      "1 masa de hojaldre",
+      "Queso rallado",
+      "1 pera",
+      "Tiras de bacon",
+      "Queso azul",
+      "Nueces",
+      "Miel",
+      "1 huevo, opcional para pintar"
+    ],
+    "steps": [
+      "Extiende la masa de hojaldre.",
+      "Cubre con queso rallado.",
+      "Añade láminas de pera.",
+      "Reparte bacon, queso azul y nueces.",
+      "Pinta el hojaldre con huevo batido si lo deseas.",
+      "Hornea a 180 ºC durante 15-20 minutos.",
+      "Al sacar del horno, añade un poco de miel."
+    ],
+    "tip": "Añade la miel al final para conservar el contraste dulce y salado."
+  },
+  {
+    "title": "Hojaldre de calabacín",
+    "category": "Entrantes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "hojaldre",
+      "calabacín",
+      "gambas"
+    ],
+    "ingredients": [
+      "1 masa de hojaldre",
+      "Queso Philadelphia",
+      "Calabacín",
+      "Gambas",
+      "1 huevo, opcional para pintar"
+    ],
+    "steps": [
+      "Extiende la masa de hojaldre.",
+      "Unta una capa de queso Philadelphia.",
+      "Corta un calabacín en rodajas y cubre toda la superficie.",
+      "Añade unas gambas.",
+      "Pinta la masa con huevo batido si lo deseas.",
+      "Hornea a 180 ºC durante unos 20 minutos."
+    ],
+    "tip": "Corta el calabacín fino para que quede tierno en el tiempo de horneado."
+  },
+  {
+    "title": "Hojaldre de espárragos",
+    "category": "Entrantes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "hojaldre",
+      "espárragos",
+      "queso"
+    ],
+    "ingredients": [
+      "1 masa de hojaldre",
+      "Queso Philadelphia",
+      "Espárragos verdes",
+      "Queso para gratinar",
+      "1 huevo, opcional para pintar"
+    ],
+    "steps": [
+      "Extiende la masa de hojaldre.",
+      "Unta una capa de queso Philadelphia.",
+      "Coloca los espárragos cubriendo la superficie.",
+      "Añade queso para gratinar.",
+      "Pinta la masa con huevo batido si lo deseas.",
+      "Hornea a 180 ºC durante unos 20 minutos."
+    ],
+    "tip": "Usa espárragos finos para que se cocinen bien junto con el hojaldre."
+  },
+  {
+    "title": "Trenza de salmón y queso",
+    "category": "Entrantes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "hojaldre",
+      "salmón",
+      "queso"
+    ],
+    "ingredients": [
+      "1 masa de hojaldre",
+      "Queso Philadelphia",
+      "Salmón ahumado",
+      "1 huevo, opcional para pintar"
+    ],
+    "steps": [
+      "Extiende el hojaldre y haz cortes diagonales a ambos lados.",
+      "Unta queso Philadelphia en la parte central.",
+      "Coloca el salmón ahumado encima.",
+      "Cierra cruzando las tiras laterales de hojaldre.",
+      "Pinta con huevo batido si lo deseas.",
+      "Hornea a 180 ºC durante unos 20 minutos."
+    ],
+    "tip": "No pongas demasiado relleno para poder cerrar bien la trenza."
+  },
+  {
+    "title": "Ensalada de ahumados",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "ensalada",
+      "salmón ahumado",
+      "bacalao",
+      "anchoas"
+    ],
+    "ingredients": [
+      "Bolsa de ensalada: rúcula, canónigos u hojas variadas",
+      "Tomate",
+      "Mozzarella",
+      "Salmón ahumado",
+      "Bacalao ahumado",
+      "Anchoas",
+      "Aceite de oliva",
+      "Vinagre de Módena",
+      "Sal"
+    ],
+    "steps": [
+      "Preparación no especificada en el documento original; montar los ingredientes y aliñar al servir."
+    ],
+    "tip": "Prueba antes de añadir sal, porque los ahumados y las anchoas ya aportan bastante."
+  },
+  {
+    "title": "Alcachofas cremosas",
+    "category": "Verduras",
+    "time": "20 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "alcachofas",
+      "burrata",
+      "tomate"
+    ],
+    "ingredients": [
+      "Corazones de alcachofas",
+      "Tomate",
+      "Burrata",
+      "Aceite de oliva",
+      "Sal",
+      "Huevo, opcional",
+      "Pimentón, opcional"
+    ],
+    "steps": [
+      "Dora las alcachofas en una sartén con un poco de aceite y sal.",
+      "Extiende la burrata en un plato y vierte las alcachofas encima.",
+      "Coloca tomate natural o a la plancha alrededor.",
+      "Como variante, añade un huevo a la plancha y una mezcla de aceite y pimentón."
+    ],
+    "tip": "Sirve las alcachofas calientes sobre la burrata para crear el contraste de temperaturas."
+  },
+  {
+    "title": "Lubina con verduras",
+    "category": "Pescados",
+    "time": "40 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": [
+      "lubina",
+      "verduras",
+      "horno"
+    ],
+    "ingredients": [
+      "Lubinas",
+      "Tomate",
+      "Pimiento",
+      "Cebolla",
+      "Zanahoria",
+      "Aceite de oliva",
+      "Sal",
+      "Vino blanco",
+      "1 vaso de caldo de verduras",
+      "Ajos",
+      "Pimentón dulce",
+      "Vinagre de vino"
+    ],
+    "steps": [
+      "Pon en una fuente de horno aceite, tomate, pimiento, cebolla y zanahoria cortados.",
+      "Añade aceite, sal, vino blanco y caldo de verduras y hornea a 200 ºC durante unos 20 minutos.",
+      "Coloca los lomos de lubina encima, sazona y añade aceite. Hornea 15 minutos más.",
+      "Rehoga ajos laminados en una sartén, añade pimentón dulce y un chorrito de vinagre de vino.",
+      "Deja evaporar un minuto y sirve un poco de esta salsa sobre el pescado."
+    ],
+    "tip": "También puedes utilizar una bolsa de verduras cortadas en juliana."
+  },
+  {
+    "title": "Espinacas con pasas y piñones",
+    "category": "Verduras",
+    "time": "15 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "espinacas",
+      "pasas",
+      "piñones"
+    ],
+    "ingredients": [
+      "Espinacas",
+      "Pasas",
+      "Piñones",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Reduce las espinacas en una sartén con un poco de aceite y añade sal.",
+      "Incorpora los piñones y las pasas y mezcla."
+    ],
+    "tip": "Añade pasas y piñones al final para mantener mejor su textura."
+  },
+  {
+    "title": "Aliño de pulpo",
+    "category": "Ensaladas",
+    "time": "15 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "pulpo",
+      "tomate",
+      "cebolla",
+      "pimiento"
+    ],
+    "ingredients": [
+      "1-2 patas de pulpo",
+      "Tomate",
+      "Cebolla",
+      "Pimiento",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Corta el pulpo en rodajas.",
+      "Pica el tomate, la cebolla y el pimiento.",
+      "Junta todos los ingredientes y añade aceite y sal."
+    ],
+    "tip": "Sírvelo frío o ligeramente fresco."
+  },
+  {
+    "title": "Salmorejo",
+    "category": "Entrantes",
+    "time": "10 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "salmorejo",
+      "tomate",
+      "aguacate"
+    ],
+    "ingredients": [
+      "1,5 kg de tomate",
+      "1 aguacate",
+      "1 huevo duro",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso de la batidora.",
+      "Bate hasta alcanzar la textura deseada."
+    ],
+    "tip": "Enfría bien antes de servir."
+  },
+  {
+    "title": "Cazuela de rape con patatas",
+    "category": "Pescados",
+    "time": "35 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "rape",
+      "patatas",
+      "vino blanco"
+    ],
+    "ingredients": [
+      "1 kg de rape al corte",
+      "Patatas",
+      "1 cebolla",
+      "1 vaso de vino blanco",
+      "Perejil",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Pela y corta las patatas en rodajas transversales.",
+      "Corta la cebolla y póchala.",
+      "Añade las patatas, remueve y cocina tapado a fuego bajo unos 20 minutos, moviendo de vez en cuando.",
+      "Sube el fuego, añade el vino y deja que se evapore.",
+      "Añade el rape previamente salado y el perejil.",
+      "A los 2 minutos, da la vuelta al rape y cocina otros 2 minutos."
+    ],
+    "tip": "El rape necesita poca cocción; evita pasarlo para que quede jugoso."
+  },
+  {
+    "title": "Pasta con verduras",
+    "category": "Pastas",
+    "time": "25 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pasta",
+      "verduras",
+      "atún"
+    ],
+    "ingredients": [
+      "Pasta integral",
+      "Tomate",
+      "Cebolla",
+      "Espinacas",
+      "1 lata de atún al natural",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Reduce las espinacas en una sartén con un poco de aceite.",
+      "Pocha el tomate y la cebolla con aceite y sal y junta toda la verdura.",
+      "Cuece la pasta.",
+      "Mezcla la pasta con las verduras.",
+      "Añade el atún al natural."
+    ],
+    "tip": "Escurre bien el atún antes de incorporarlo."
+  },
+  {
+    "title": "Tostadas Caprese",
+    "category": "Entrantes",
+    "time": "10 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "tostadas",
+      "tomate",
+      "mozzarella",
+      "albahaca"
+    ],
+    "ingredients": [
+      "Rebanadas de pan tostado",
+      "Tomate",
+      "Mozzarella",
+      "Albahaca",
+      "Aceite de oliva",
+      "Vinagre balsámico de Módena",
+      "Sal"
+    ],
+    "steps": [
+      "Preparación no especificada en el documento original; montar los ingredientes sobre las tostadas y aliñar al servir."
+    ],
+    "tip": "Escurre bien la mozzarella para que el pan se mantenga crujiente."
+  },
+  {
+    "title": "Pechugas de pollo en salsa de bacon y queso",
+    "category": "Carnes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pollo",
+      "bacon",
+      "queso",
+      "nata"
+    ],
+    "ingredients": [
+      "Pechugas de pollo enteras",
+      "1/2 cebolla",
+      "Bacon",
+      "1 cucharada de queso Philadelphia",
+      "200 ml de nata para cocinar",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Corta las pechugas en trozos, dóralas y reserva.",
+      "Pocha la cebolla.",
+      "Añade la nata y el queso Philadelphia, mezcla bien y calienta unos minutos.",
+      "Incorpora las pechugas.",
+      "Fríe el bacon y añádelo.",
+      "Cocina todo junto a fuego medio durante 6-8 minutos."
+    ],
+    "tip": "Añade el bacon al final para que conserve mejor su textura."
+  },
+  {
+    "title": "Ensalada de melón, burrata y albahaca",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "ensalada",
+      "melón",
+      "burrata",
+      "albahaca"
+    ],
+    "ingredients": [
+      "Melón",
+      "1 burrata",
+      "Albahaca fresca",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Mozzarella fresca, opcional en sustitución de la burrata"
+    ],
+    "steps": [
+      "Corta el melón y colócalo en una fuente.",
+      "Añade la burrata y la albahaca.",
+      "Aliña con aceite y una pizca de sal."
+    ],
+    "tip": "La burrata puede sustituirse por mozzarella fresca."
+  },
+  {
+    "title": "Ensalada de melón, queso feta y menta",
+    "category": "Ensaladas",
+    "time": "10 min",
+    "servings": "4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "ensalada",
+      "melón",
+      "feta",
+      "menta"
+    ],
+    "ingredients": [
+      "Melón",
+      "Queso feta",
+      "Menta fresca",
+      "Aceite de oliva virgen extra",
+      "Sal"
+    ],
+    "steps": [
+      "Corta el melón en trozos.",
+      "Añade el queso feta desmenuzado y la menta.",
+      "Aliña con aceite y una pizca de sal."
+    ],
+    "tip": "Sírvela bien fría."
+  },
+  {
+    "title": "Caldereta de corvina con patatas y almejas",
+    "category": "Pescados",
+    "time": "55 min",
+    "servings": "2 personas",
+    "difficulty": "Media",
+    "tags": [
+      "corvina",
+      "almejas",
+      "patatas",
+      "guiso"
+    ],
+    "ingredients": [
+      "2 rodajas hermosas de corvina (aprox. 300-400 g cada una)",
+      "250-300 g de almejas",
+      "500-600 g de patatas",
+      "1 cebolla mediana",
+      "2 dientes de ajo",
+      "1/2 pimiento rojo",
+      "1/2 pimiento verde",
+      "2 tomates maduros rallados (150-200 g)",
+      "100 ml de vino blanco",
+      "600 ml de caldo de pescado",
+      "1 cucharadita de pimentón dulce",
+      "1 hoja de laurel",
+      "Unas hebras de azafrán o un poco de colorante",
+      "3 cucharadas de aceite de oliva virgen extra",
+      "Perejil fresco",
+      "Sal",
+      "Pimienta negra"
+    ],
+    "steps": [
+      "Deja las almejas 30 minutos en agua con sal y enjuágalas.",
+      "Sofríe cebolla, ajo y pimientos unos 10 minutos.",
+      "Añade el tomate rallado y cocina 12-15 minutos.",
+      "Incorpora el pimentón y el vino blanco y deja reducir unos 3 minutos.",
+      "Añade las patatas cascadas, laurel, azafrán y caldo. Cocina 18-20 minutos.",
+      "Salpimenta la corvina, colócala sobre el guiso y cocina tapado unos 6 minutos a fuego suave.",
+      "Añade las almejas y cocina tapado 3-4 minutos, hasta que se abran.",
+      "Termina con perejil y deja reposar 5 minutos."
+    ],
+    "tip": "No tengas prisa con el sofrito y añade la corvina al final para que quede jugosa."
+  },
+  {
+    "title": "Pollo en pepitoria",
+    "category": "Carnes",
+    "time": "1 h 5 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": [
+      "pollo",
+      "pepitoria",
+      "almendras",
+      "tradicional"
+    ],
+    "ingredients": [
+      "1 pollo troceado (aprox. 1,5 kg)",
+      "1 cebolla grande",
+      "3 dientes de ajo",
+      "2 huevos cocidos",
+      "50 g de almendras crudas",
+      "100 ml de vino blanco",
+      "500 ml de caldo de pollo",
+      "1 rebanada de pan",
+      "2 hojas de laurel",
+      "Unas hebras de azafrán",
+      "Harina para enharinar el pollo",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Salpimenta el pollo, pásalo ligeramente por harina, dóralo en una cazuela con aceite y reserva.",
+      "Pocha la cebolla durante 10-12 minutos.",
+      "Añade los ajos y el laurel y cocina 1 minuto.",
+      "Incorpora el vino blanco y deja evaporar 2-3 minutos.",
+      "Devuelve el pollo a la cazuela, añade el caldo hasta casi cubrir y guisa tapado 25-35 minutos.",
+      "Tuesta las almendras y prepara una picada con las almendras, el pan, las yemas cocidas, el azafrán y un poco de caldo.",
+      "Añade la picada al guiso y cocina a fuego suave 8-10 minutos.",
+      "Ajusta de sal antes de servir."
+    ],
+    "tip": "Gana mucho reposando y está aún mejor al día siguiente. Si la salsa espesa demasiado, añade caldo; si queda ligera, reduce destapada."
   }
 ];
