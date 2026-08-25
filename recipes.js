@@ -2996,5 +2996,116 @@ const recipes = [
       "Cocina hasta que la merluza esté en su punto y sirve inmediatamente."
     ],
     "tip": "No cocines en exceso la merluza para que conserve su jugosidad."
+  },
+  {
+    "title": "Merluza al ajillo con gambas y champiñones",
+    "category": "Pescados",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "merluza",
+      "gambas",
+      "champiñones",
+      "ajillo"
+    ],
+    "ingredients": [
+      "8 lomos de merluza",
+      "300 g de gambas crudas peladas",
+      "250 g de champiñones laminados",
+      "6 dientes de ajo",
+      "1 guindilla, opcional",
+      "200 ml de vino blanco seco",
+      "200 ml de caldo de pescado suave",
+      "Aceite de oliva virgen extra",
+      "Perejil fresco",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Salpimenta la merluza y márcala brevemente por ambos lados. Reserva.",
+      "Sofríe los ajos laminados con la guindilla a fuego suave.",
+      "Añade los champiñones y saltea hasta que pierdan el agua.",
+      "Incorpora el vino blanco y reduce unos minutos.",
+      "Añade el caldo y hierve suavemente 5 minutos.",
+      "Agrega las gambas, cocina 1 minuto y devuelve la merluza a la cazuela.",
+      "Cocina tapado 2 minutos, apaga y deja enfriar."
+    ],
+    "tip": "Se puede preparar de un día para otro. Guarda en nevera hasta 36 horas bien tapado y recalienta a fuego suave, sin hervir, añadiendo un poco de caldo si hace falta."
+  },
+  {
+    "title": "Cocido madrileño en Crock-Pot",
+    "category": "Crock-Pot",
+    "time": "8 h",
+    "servings": "6 personas",
+    "difficulty": "Media",
+    "tags": [
+      "cocido",
+      "madrileño",
+      "garbanzos",
+      "crock-pot"
+    ],
+    "ingredients": [
+      "400 g de garbanzos secos, remojados 12 h",
+      "500 g de morcillo de ternera",
+      "150 g de tocino fresco",
+      "100 g de tocino salado",
+      "1 hueso de jamón",
+      "1 hueso de rodilla o caña",
+      "1/2 gallina o 2 contramuslos de pollo",
+      "1 chorizo",
+      "1 morcilla, añadir al final",
+      "2-3 zanahorias",
+      "1 puerro",
+      "1 patata grande",
+      "1/2 repollo, aparte",
+      "Fideos finos para la sopa",
+      "2-2,5 litros de agua caliente"
+    ],
+    "steps": [
+      "Coloca las carnes, excepto chorizo y morcilla, los huesos y los tocinos en la Crock-Pot.",
+      "Añade los garbanzos escurridos y las verduras: puerro y zanahorias.",
+      "Cubre con 2-2,5 litros de agua caliente.",
+      "Cocina 8 horas en BAJA o 4-5 horas en ALTA.",
+      "Añade el chorizo y la patata en las últimas 2 horas; la morcilla, en la última hora.",
+      "Cuece el repollo aparte durante 20-25 minutos y saltéalo con ajo si lo deseas.",
+      "Cuela el caldo para hacer la sopa con fideos, 2-3 minutos de cocción.",
+      "Sirve en tres vuelcos: sopa, garbanzos y verduras, carnes."
+    ],
+    "tip": "No es necesario espumar en la Crock-Pot. Para un caldo más concentrado, deja la tapa ligeramente entreabierta la última hora. Se puede desgrasar el caldo enfriándolo y retirando la capa sólida."
+  },
+  {
+    "title": "Tartar de salchichón",
+    "category": "Entrantes",
+    "time": "20 min",
+    "servings": "2-4 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "salchichón",
+      "tartar",
+      "aperitivo",
+      "entrante"
+    ],
+    "ingredients": [
+      "150 g de salchichón de buena calidad, preferiblemente ibérico",
+      "1 cucharada de alcaparras, finamente picadas",
+      "1/2 chalota o cebolla morada pequeña, muy picada",
+      "1 cucharadita de mostaza Dijon, opcional",
+      "1 cucharada de aceite de oliva virgen extra",
+      "Pimienta negra recién molida",
+      "Unas gotas de zumo de limón o vinagre suave, opcional",
+      "Cebollino o perejil picado, opcional",
+      "Pan tostado, crackers o pan crujiente para acompañar"
+    ],
+    "steps": [
+      "Pica el salchichón a cuchillo en dados muy pequeños. Evita la picadora para no alterar la textura.",
+      "Mezcla el salchichón con la chalota, las alcaparras y las hierbas aromáticas.",
+      "Añade la mostaza, el aceite de oliva, unas gotas de limón y pimienta al gusto.",
+      "Mezcla suavemente hasta integrar todos los ingredientes.",
+      "Prueba y ajusta el punto de acidez o pimienta. Normalmente no es necesario añadir sal.",
+      "Refrigera entre 10 y 15 minutos antes de servir para que se integren los sabores.",
+      "Emplata con ayuda de un aro o a cucharadas y sirve con pan crujiente."
+    ],
+    "tip": "Como variaciones, puedes añadir yema de huevo fresca o curada, pepinillos muy picados o una cucharadita de queso crema o mantequilla pomada."
   }
 ];
