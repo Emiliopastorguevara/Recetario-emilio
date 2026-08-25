@@ -2699,5 +2699,302 @@ const recipes = [
       "Ajusta de sal antes de servir."
     ],
     "tip": "Gana mucho reposando y está aún mejor al día siguiente. Si la salsa espesa demasiado, añade caldo; si queda ligera, reduce destapada."
+  },
+  {
+    "title": "Espinacas con huevo, queso y frutos secos",
+    "category": "Huevos",
+    "time": "15 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "espinacas",
+      "huevo",
+      "queso",
+      "frutos secos"
+    ],
+    "ingredients": [
+      "Espinacas descongeladas",
+      "2 huevos",
+      "Queso que funda bien",
+      "Un puñado de nueces y almendras",
+      "Aceite de oliva",
+      "Sal",
+      "Ajo, opcional"
+    ],
+    "steps": [
+      "Escurre muy bien las espinacas para eliminar el exceso de agua.",
+      "Trocea y tuesta ligeramente nueces y almendras en sartén sin aceite durante 2-3 minutos. Reserva.",
+      "Saltea las espinacas con aceite y ajo, si lo usas, durante 2-3 minutos.",
+      "Añade los huevos batidos y remueve suavemente hasta que queden cremosos.",
+      "Incorpora el queso cuando el huevo esté casi hecho y deja que funda.",
+      "Añade los frutos secos al final para mantener el crujiente.",
+      "Sirve caliente con un chorrito de aceite de oliva."
+    ],
+    "tip": "No sobrecocines el huevo. Añade los frutos secos al final y acompaña con pan tostado."
+  },
+  {
+    "title": "Alcachofas con jamón y queso en freidora de aire",
+    "category": "Air Fryer",
+    "time": "10 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "alcachofas",
+      "jamón",
+      "queso",
+      "air fryer"
+    ],
+    "ingredients": [
+      "1 lata de alcachofas en conserva (10 unidades)",
+      "Aceite de oliva virgen extra",
+      "Jamón serrano",
+      "Queso parmesano rallado"
+    ],
+    "steps": [
+      "Escurre las alcachofas, colócalas en un recipiente para Air Fryer, ábrelas formando una flor y pulveriza con aceite de oliva.",
+      "Precalienta la Air Fryer y cocina a 180 ºC durante 5 minutos.",
+      "Si usas alcachofas congeladas, cocínalas primero 5 minutos cerradas, luego ábrelas y cocina otros 5 minutos.",
+      "Añade el jamón serrano en trozos y cocina 2-3 minutos más.",
+      "Añade el queso rallado por encima y deja reposar dentro de la freidora 2 minutos para que se funda con el calor residual."
+    ],
+    "tip": "Escurre bien las alcachofas antes de cocinarlas para que se doren mejor."
+  },
+  {
+    "title": "Torrijas en Air Fryer",
+    "category": "Air Fryer",
+    "time": "30 min",
+    "servings": "4-6 torrijas",
+    "difficulty": "Fácil",
+    "tags": [
+      "torrijas",
+      "air fryer",
+      "postre"
+    ],
+    "ingredients": [
+      "1 barra de pan del día anterior, mejor brioche o especial para torrijas",
+      "500 ml de leche",
+      "1 rama de canela",
+      "Piel de limón",
+      "2-3 cucharadas de azúcar",
+      "2 huevos",
+      "Aceite en spray o para pincelar",
+      "Azúcar y canela para espolvorear"
+    ],
+    "steps": [
+      "Infusiona la leche con canela, piel de limón y azúcar. Deja templar.",
+      "Corta el pan en rebanadas gruesas de 2-3 cm y empápalas sin que chorreen.",
+      "Pásalas por huevo batido.",
+      "Precalienta la Air Fryer a 180 ºC. Usa papel de horno y un poco de aceite.",
+      "Cocina 8 minutos por un lado y 5-7 minutos por el otro.",
+      "Espolvorea con azúcar y canela al sacar."
+    ],
+    "tip": "No empapes demasiado el pan, engrasa ligeramente y dales la vuelta solo cuando estén doradas."
+  },
+  {
+    "title": "Fabada asturiana en Crock-Pot",
+    "category": "Crock-Pot",
+    "time": "7 h 15 min",
+    "servings": "6 personas",
+    "difficulty": "Media",
+    "tags": [
+      "fabada",
+      "fabes",
+      "asturiana",
+      "crock-pot"
+    ],
+    "ingredients": [
+      "500 g de faba asturiana",
+      "2 chorizos asturianos",
+      "2 morcillas asturianas",
+      "150 g de lacón",
+      "150 g de panceta ahumada",
+      "1 hueso de jamón",
+      "Azafrán",
+      "Aceite de oliva virgen extra",
+      "Agua"
+    ],
+    "steps": [
+      "Pon las fabes en remojo durante 10 horas. Pon también en remojo el lacón en otro recipiente para quitar parte de la sal.",
+      "Escurre las fabes y colócalas en la Crock-Pot. Añade las carnes y embutidos y cubre con agua aproximadamente un dedo por encima.",
+      "Añade dos cucharadas de aceite de oliva virgen extra y unas hebras de azafrán.",
+      "Programa 7 horas en BAJA.",
+      "Comprueba el punto de la legumbre; si aún no está tierna, cocina algo más en tramos de media hora.",
+      "Rectifica de sal si es necesario y deja reposar unas 3 horas para que tome cuerpo.",
+      "Para calentarla, mueve la olla en círculo y evita remover con cuchara para que las fabes no se rompan.",
+      "Sirve muy caliente con los embutidos y carnes troceados."
+    ],
+    "tip": "Controla bien el agua: la fabada debe quedar ligada, no aguada."
+  },
+  {
+    "title": "Vichyssoise en Crock-Pot",
+    "category": "Crock-Pot",
+    "time": "3 h 40 min",
+    "servings": "5-6 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "vichyssoise",
+      "puerro",
+      "patata",
+      "crock-pot"
+    ],
+    "ingredients": [
+      "3 puerros (400 g)",
+      "600 g de patatas",
+      "1 l de caldo de ave",
+      "50 g de mantequilla",
+      "200 ml de nata",
+      "Pimienta",
+      "Sal",
+      "Cebollino fresco para decorar, opcional"
+    ],
+    "steps": [
+      "Pon la Crock-Pot en ALTA.",
+      "Corta la mantequilla en trozos finos y deja que se derrita en la olla.",
+      "Limpia muy bien los puerros y córtalos en rodajas muy finas.",
+      "Añade los puerros, remueve para impregnarlos de mantequilla, tapa y cocina 30 minutos, removiendo a mitad.",
+      "Pela y corta las patatas en trozos pequeños. Añádelas junto con el caldo caliente, pimienta y sal.",
+      "Cocina 2 horas y media en ALTA con la olla tapada.",
+      "Deja enfriar y tritura hasta obtener una crema fina.",
+      "Refrigera al menos 3 horas y mezcla con la nata en el último momento.",
+      "Sirve con cebollino fresco picado."
+    ],
+    "tip": "Sírvela bien fría y ajusta sal y pimienta después de triturar."
+  },
+  {
+    "title": "Bacalao confitado en Crock-Pot",
+    "category": "Crock-Pot",
+    "time": "1 h 15 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "bacalao",
+      "confitado",
+      "crock-pot"
+    ],
+    "ingredients": [
+      "4 tajadas de lomo de bacalao desalado (180-200 g cada una)",
+      "Aceite de oliva virgen extra"
+    ],
+    "steps": [
+      "Cubre el fondo del recipiente de la Crock-Pot con aceite de oliva.",
+      "Pon los lomos de bacalao desalados y añade más aceite; no es necesario cubrirlos por completo.",
+      "Cocina durante una hora en ALTA con la tapa puesta.",
+      "Comprueba el punto: debe estar tierno y jugoso. Si está algo crudo, prolonga la cocción alrededor de media hora.",
+      "Retira los lomos. Vierte el líquido restante en un vaso de batidora y tritura hasta formar una crema ligada de color amarillo.",
+      "Sirve el bacalao sobre una cama de patatas panadera acompañado de la salsa."
+    ],
+    "tip": "Usa un aceite de oliva de sabor suave. Si el bacalao no viene desalado, desálalo en frío cambiando el agua varias veces."
+  },
+  {
+    "title": "Pollo guisado",
+    "category": "Carnes",
+    "time": "1 h 15 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pollo",
+      "guiso",
+      "vino blanco",
+      "zanahoria"
+    ],
+    "ingredients": [
+      "1 pollo troceado (muslos, contramuslos y alitas)",
+      "2 dientes de ajo sin pelar",
+      "2 cebollas en juliana",
+      "2 zanahorias en rodajas",
+      "1 vaso de vino blanco",
+      "2 vasos y medio de caldo de pollo",
+      "Un chorrito de vinagre de manzana",
+      "1 hoja de laurel",
+      "1 ramita de romero",
+      "Sal",
+      "Pimienta",
+      "Aceite de oliva virgen extra"
+    ],
+    "steps": [
+      "Dora bien el pollo y pocha mucho la cebolla y la zanahoria, unos 20 minutos.",
+      "Añade de nuevo el pollo y desglasa con el vino.",
+      "Agrega el vinagre, las hierbas y el caldo.",
+      "Cocina a fuego lento unos 45 minutos, controlando que no se quede sin caldo. Añade un poco más si hace falta."
+    ],
+    "tip": "Mantén siempre algo de caldo durante la cocción para que el pollo quede jugoso."
+  },
+  {
+    "title": "Pastel frío navideño en capas de langostinos",
+    "category": "Entrantes",
+    "time": "1 h",
+    "servings": "6 personas",
+    "difficulty": "Media",
+    "tags": [
+      "langostinos",
+      "salmón ahumado",
+      "aguacate",
+      "entrante frío"
+    ],
+    "ingredients": [
+      "200 g de queso crema",
+      "250 g de langostinos cocidos, pelados y picados",
+      "2-3 cucharadas de mayonesa o yogur griego",
+      "Jugo de 1/2 limón",
+      "Sal y pimienta blanca",
+      "1 cucharada de salsa rosa, opcional",
+      "Perejil o cebollino picado",
+      "2 aguacates maduros",
+      "2 huevos duros",
+      "Jugo de 1/2 limón",
+      "Sal",
+      "150 g de salmón ahumado picado fino",
+      "100 g de queso crema",
+      "1 cucharada de nata o yogur griego",
+      "Unas gotas de limón",
+      "Eneldo o cebollino",
+      "Pan de molde sin corteza, bizcocho salado o crackers para la base"
+    ],
+    "steps": [
+      "Para la capa de langostinos, mezcla el queso crema con la mayonesa o yogur. Añade limón, sal, pimienta y salsa rosa. Incorpora los langostinos y las hierbas y refrigera 20-30 minutos.",
+      "Para la capa de aguacate y huevo, tritura el aguacate con limón y sal. Ralla los huevos duros y mezcla suavemente o usa ambas preparaciones en capas separadas.",
+      "Para la capa de salmón, mezcla el queso crema con la nata o yogur. Añade salmón, limón y hierbas y refrigera hasta usar.",
+      "Usa pan de molde sin corteza, bizcocho salado o crackers como base.",
+      "Coloca una capa de queso crema y langostinos.",
+      "Añade la capa de aguacate y huevo.",
+      "Incorpora la capa de salmón ahumado.",
+      "Repite capas si deseas más altura y refrigera antes de servir."
+    ],
+    "tip": "Móntalo con antelación y mantenlo bien frío hasta el momento de servir."
+  },
+  {
+    "title": "Merluza en salsa verde",
+    "category": "Pescados",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Media",
+    "tags": [
+      "merluza",
+      "salsa verde",
+      "almejas",
+      "gambas"
+    ],
+    "ingredients": [
+      "800 g de lomos de merluza",
+      "3 dientes de ajo",
+      "3 cucharadas de vino blanco seco",
+      "1 cucharada de harina",
+      "Perejil al gusto",
+      "200 g de almejas",
+      "16 gambas peladas",
+      "6 cucharadas de aceite de oliva",
+      "Sal al gusto",
+      "1/2 taza de caldo de pescado"
+    ],
+    "steps": [
+      "Lava el pescado y sécalo con papel absorbente.",
+      "Pela y pica los ajos. Lava, seca y pica el perejil hasta obtener unas 2 cucharadas.",
+      "Calienta el aceite en una cazuela y fríe los ajos y la mitad del perejil hasta que empiecen a cambiar de color.",
+      "Añade la harina y remueve rápidamente.",
+      "Agrega las almejas previamente lavadas, el vino y la merluza. Tapa y cocina hasta que las almejas se abran.",
+      "Incorpora el resto del perejil, el caldo de pescado, las gambas y la sal.",
+      "Cocina hasta que la merluza esté en su punto y sirve inmediatamente."
+    ],
+    "tip": "No cocines en exceso la merluza para que conserve su jugosidad."
   }
 ];
