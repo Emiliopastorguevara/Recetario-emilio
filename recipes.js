@@ -3107,5 +3107,161 @@ const recipes = [
       "Emplata con ayuda de un aro o a cucharadas y sirve con pan crujiente."
     ],
     "tip": "Como variaciones, puedes añadir yema de huevo fresca o curada, pepinillos muy picados o una cucharadita de queso crema o mantequilla pomada."
+  },
+  {
+    "title": "Lentejas con verduras",
+    "category": "Legumbres",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "lentejas",
+      "verduras",
+      "olla rápida"
+    ],
+    "ingredients": [
+      "Lentejas",
+      "1 tomate",
+      "1/2 cebolla",
+      "1/2 pimiento",
+      "Un trozo de calabaza",
+      "1 calabacín",
+      "2-3 zanahorias",
+      "Aceite de oliva",
+      "Sal",
+      "Agua"
+    ],
+    "steps": [
+      "Cuece previamente las lentejas unos minutos en una cacerola.",
+      "Pon las lentejas y todas las verduras en la olla rápida.",
+      "Cuando la olla empiece a pitar, cocina a fuego lento unos 4-5 minutos.",
+      "Saca las verduras y tritúralas.",
+      "Mezcla de nuevo las verduras trituradas con las lentejas."
+    ],
+    "tip": "La verdura triturada ayuda a espesar el caldo de forma natural."
+  },
+  {
+    "title": "Salmón al horno con salsa de mostaza y miel",
+    "category": "Pescados",
+    "time": "25 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "salmón",
+      "mostaza",
+      "miel",
+      "horno"
+    ],
+    "ingredients": [
+      "4 lomos de salmón de unos 200 g cada uno",
+      "6 cucharadas soperas de miel",
+      "6 cucharadas soperas de mostaza a la antigua granulada",
+      "Almendras",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Coloca los lomos de salmón sobre una bandeja de horno, mejor sobre papel de horno, y salpimienta.",
+      "Mezcla en un bol la mostaza con la miel.",
+      "Pinta los lomos de salmón por encima con la salsa.",
+      "Tritura unas almendras y repártelas por encima.",
+      "Hornea durante unos 15 minutos a 180 ºC."
+    ],
+    "tip": "Vigila el punto del salmón para que quede jugoso."
+  },
+  {
+    "title": "Guiso de pavo con huevo y mostaza",
+    "category": "Carnes",
+    "time": "40 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pavo",
+      "huevo",
+      "mostaza",
+      "guiso"
+    ],
+    "ingredients": [
+      "700 g de pechuga de pavo",
+      "2 huevos cocidos",
+      "1 cebolla",
+      "1 vaso de vino blanco",
+      "1 vaso de caldo o agua",
+      "1 cucharada de mostaza a la antigua",
+      "1 ramita de perejil",
+      "1 rama de romero",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Corta el pavo en dados, salpimienta, dóralo en una sartén con aceite bien caliente y reserva.",
+      "Pocha la cebolla en otra sartén.",
+      "Incorpora el pavo, el romero y el vino blanco y cocina 5 minutos para que se reduzca el alcohol.",
+      "Añade un vaso de caldo o agua.",
+      "Cocina a fuego lento y tapado durante 20 minutos.",
+      "Disuelve la mostaza en un poco del líquido de cocción y añádela junto con el huevo cocido picado y el perejil.",
+      "Cocina unos minutos más y sirve."
+    ],
+    "tip": "Añade el huevo al final para que conserve mejor su textura."
+  },
+  {
+    "title": "Solomillo a la cerveza",
+    "category": "Carnes",
+    "time": "35 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "solomillo",
+      "cerdo",
+      "cerveza",
+      "champiñones"
+    ],
+    "ingredients": [
+      "1 solomillo de cerdo",
+      "1 cebolla",
+      "300 g de champiñones",
+      "1 lata de cerveza",
+      "1 vaso de caldo de pollo o agua",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Corta el solomillo en filetes y salpimienta.",
+      "Dóralo en una sartén con aceite bien caliente y reserva.",
+      "Pocha la cebolla y los champiñones.",
+      "Añade la cerveza y cocina 5 minutos para que se evapore el alcohol.",
+      "Incorpora de nuevo el solomillo.",
+      "Añade el caldo y cocina a fuego lento y tapado durante 20 minutos."
+    ],
+    "tip": "No cocines demasiado el solomillo para que quede tierno y jugoso."
+  },
+  {
+    "title": "Natillas en Crock-Pot",
+    "category": "Crock-Pot",
+    "time": "3 h",
+    "servings": "6 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "natillas",
+      "postre",
+      "crock-pot",
+      "vainilla"
+    ],
+    "ingredients": [
+      "800 ml de leche entera",
+      "3 huevos",
+      "150 g de azúcar",
+      "Esencia de vainilla",
+      "Corteza de limón"
+    ],
+    "steps": [
+      "Pon la leche, la esencia de vainilla y la corteza de limón en la Crock-Pot en ALTA y programa 3 horas.",
+      "Bate en un bol los huevos con el azúcar hasta que queden bien mezclados.",
+      "Añade la mezcla de huevo y azúcar a la leche poco a poco, en hilo.",
+      "A partir de la primera hora, remueve de vez en cuando a medida que vaya espesando."
+    ],
+    "tip": "Deja enfriar y guarda en la nevera antes de servir."
   }
 ];
