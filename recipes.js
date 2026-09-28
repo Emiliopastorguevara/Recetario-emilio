@@ -3263,5 +3263,297 @@ const recipes = [
       "A partir de la primera hora, remueve de vez en cuando a medida que vaya espesando."
     ],
     "tip": "Deja enfriar y guarda en la nevera antes de servir."
+  },
+  {
+    "title": "Pimientos del piquillo rellenos de atún o gambones",
+    "category": "Entrantes",
+    "time": "20–25 min (10 min de preparación y 10–15 min de horno)",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "piquillos",
+      "atún",
+      "gambones",
+      "horno"
+    ],
+    "ingredients": [
+      "10 pimientos del piquillo enteros",
+      "3 huevos cocidos",
+      "Tomate frito",
+      "Perejil",
+      "1 cucharada de aceite de oliva virgen extra",
+      "Jugo de los pimientos",
+      "Versión de atún: 3 latas pequeñas de atún, bien escurridas",
+      "Versión de gambones: 150 g de gambones pelados y ½ cebolla pequeña"
+    ],
+    "steps": [
+      "Relleno de atún: picar los huevos cocidos y mezclarlos con el atún desmenuzado. Añadir tomate frito poco a poco hasta conseguir un relleno jugoso pero consistente.",
+      "Relleno de gambones: picar la cebolla muy fina y pocharla con un poco de aceite. Incorporar los gambones troceados y saltear 1–2 minutos. Retirar del fuego y mezclar con los huevos picados y un poco de tomate frito.",
+      "Rellenar los pimientos y colocarlos en una fuente.",
+      "Repartir el caldo o salsa del bote de los pimientos alrededor de los pimientos rellenos.",
+      "Espolvorear con perejil y hornear a 200 °C durante 10–15 minutos."
+    ],
+    "tip": "Elegir uno de los dos rellenos. La salsa de acompañamiento es el caldo del bote; no lleva ningún piquillo triturado."
+  },
+  {
+    "title": "Lenguado al horno con queso, pan rallado y perejil",
+    "category": "Pescados",
+    "time": "15–20 min",
+    "servings": "2 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "lenguado",
+      "horno",
+      "queso"
+    ],
+    "ingredients": [
+      "4 filetes de lenguado",
+      "3 cucharadas de pan rallado",
+      "2 cucharadas de queso Grana Padano o parmesano rallado",
+      "1 diente de ajo pequeño, muy picado, opcional",
+      "2 cucharadas de perejil fresco picado",
+      "1–2 cucharadas de aceite de oliva virgen extra y un poco para la fuente",
+      "Sal",
+      "Pimienta negra",
+      "½ limón"
+    ],
+    "steps": [
+      "Precalentar el horno a 200 °C, calor arriba y abajo.",
+      "Secar los filetes, salpimentarlos y colocarlos en una fuente untada con un poco de aceite.",
+      "Mezclar el pan rallado, el queso, el ajo opcional y el perejil. Añadir 1–2 cucharadas de aceite hasta obtener una textura ligeramente húmeda.",
+      "Repartir sobre los filetes formando una capa fina y uniforme.",
+      "Hornear 8–10 minutos a 200 °C.",
+      "Terminar con 1–2 minutos de grill, vigilando que no se queme la cobertura.",
+      "Servir con unas gotas de limón."
+    ],
+    "tip": "Evitar el exceso de cocción. Acompañar, si se desea, con patatas pequeñas cocidas y salteadas con aceite, ajo y perejil."
+  },
+  {
+    "title": "Pollo al ajillo tradicional",
+    "category": "Carnes",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pollo",
+      "ajillo",
+      "tradicional"
+    ],
+    "ingredients": [
+      "1 kg de contramuslos de pollo troceados",
+      "1 cabeza de ajos",
+      "1 vaso de vino blanco",
+      "1 hoja de laurel",
+      "Perejil seco o fresco",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta negra"
+    ],
+    "steps": [
+      "Cortar el pollo en trozos similares y salpimentar.",
+      "Dorar bien el pollo con aceite en una sartén o cazuela amplia a fuego medio-alto. Retirar y reservar.",
+      "Hacer una pequeña incisión a los dientes de ajo, sin pelarlos completamente, y cocinarlos en el mismo aceite a fuego medio-bajo hasta que estén tiernos.",
+      "Reincorporar el pollo.",
+      "Añadir el vino blanco, el laurel y el perejil.",
+      "Cocinar a fuego medio hasta que el vino se haya reducido prácticamente por completo y quede una salsa concentrada."
+    ],
+    "tip": "Se puede preparar con antelación; la receta original indica que gana sabor de un día para otro."
+  },
+  {
+    "title": "Atún con tomate",
+    "category": "Pescados",
+    "time": "30 min",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "atún",
+      "tomate",
+      "patatas opcionales"
+    ],
+    "ingredients": [
+      "1 kg aproximadamente de atún fresco en tacos: ventresca, lomo o la parte disponible",
+      "1 bote de tomate de unos 500–600 g",
+      "Harina para enharinar ligeramente",
+      "Sal",
+      "Aceite de oliva",
+      "Opcional: 1 bote de patatas cocidas"
+    ],
+    "steps": [
+      "Salar ligeramente los tacos de atún.",
+      "Pasarlos por harina formando una capa fina y sacudir el exceso.",
+      "Marcar los tacos en una sartén con un poco de aceite caliente, dorándolos ligeramente por fuera.",
+      "Poner el tomate en una olla y añadir el atún marcado.",
+      "Calentar a fuego medio y mezclar con cuidado. Cocinar lo necesario para calentar el conjunto y terminar el atún sin resecarlo.",
+      "Variante con patatas: escurrir las patatas cocidas y añadirlas junto con el atún. Mezclar suavemente para calentarlas e impregnarlas de tomate.",
+      "Servir inmediatamente."
+    ],
+    "tip": "No cocinar demasiado el atún. La variante con patatas forma parte de esta misma receta."
+  },
+  {
+    "title": "Sándwich de sardinas con queso Philadelphia y cebolla caramelizada",
+    "category": "Sándwich",
+    "time": "20 min",
+    "servings": "1 persona",
+    "difficulty": "Fácil",
+    "tags": [
+      "sardinas",
+      "brioche",
+      "Philadelphia",
+      "air fryer"
+    ],
+    "ingredients": [
+      "2 rebanadas de pan brioche",
+      "1 lata de sardinas en aceite, bien escurridas",
+      "1 cucharada generosa de queso Philadelphia",
+      "Cebolla caramelizada al gusto",
+      "Una punta de cuchillo de mostaza"
+    ],
+    "steps": [
+      "Untar una rebanada de brioche con Philadelphia. Añadir una cantidad mínima de mostaza y extenderla bien.",
+      "Colocar las sardinas escurridas y un poco de cebolla caramelizada.",
+      "Cerrar con la otra rebanada y cocinar en la freidora de aire a 180 °C durante 8 minutos."
+    ],
+    "tip": "No superar aproximadamente ¼ de cucharadita de mostaza para que no domine sobre la sardina y el queso."
+  },
+  {
+    "title": "Cochinillo al horno",
+    "category": "Carnes",
+    "time": "Aprox. 2 horas",
+    "servings": "4–6 personas",
+    "difficulty": "Media",
+    "tags": [
+      "cochinillo",
+      "horno"
+    ],
+    "ingredients": [
+      "1 cochinillo",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta",
+      "2 vasos de agua"
+    ],
+    "steps": [
+      "Untar la fuente con aceite. Salpimentar el cochinillo y colocarlo con la piel hacia abajo. Añadir los 2 vasos de agua.",
+      "Colocar la bandeja a media altura. Comenzar con 10 minutos a 200 °C y después bajar a 180 °C.",
+      "Asar una hora por cada lado, según el manuscrito.",
+      "Al darle la vuelta y dejar la piel hacia arriba, pincharla con una puntilla para evitar que estalle.",
+      "Vigilar de vez en cuando y regar con un poco del agua de la fuente para que no se reseque.",
+      "Si no se dora, poner un poquito el grill. Si se pega a la fuente, despegar con una cuchara de madera."
+    ],
+    "tip": "Vigilar durante el asado y regar con el agua de la fuente para que no se reseque."
+  },
+  {
+    "title": "Cordero al horno con patatas",
+    "category": "Carnes",
+    "time": "Aprox. 3 horas",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "cordero",
+      "horno",
+      "patatas"
+    ],
+    "ingredients": [
+      "2 piernas o paletillas de cordero",
+      "4 o 5 patatas",
+      "Aceite de oliva",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Untar la fuente con aceite y añadir uno o dos dedos de aceite en el fondo, según el manuscrito.",
+      "Salpimentar el cordero.",
+      "Pelar las patatas y colocarlas en la fuente junto al cordero.",
+      "Hornear a 180 °C aproximadamente 1 hora y media por cada lado, dando la vuelta a mitad de la cocción."
+    ],
+    "tip": "Cordero y patatas se hacen juntos en la misma fuente."
+  },
+  {
+    "title": "Pastel de carne con espinacas",
+    "category": "Carnes",
+    "time": "50 min más grill (40 min de preparación y 10 min de horno)",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "carne picada",
+      "espinacas",
+      "horno"
+    ],
+    "ingredients": [
+      "2 paquetes de espinacas congeladas de 100 g cada uno",
+      "1 vaso de arroz crudo",
+      "¾ kg de carne picada",
+      "2 huevos para la mezcla",
+      "2 huevos adicionales para batir y cubrir"
+    ],
+    "steps": [
+      "Cocer el vaso de arroz medido en crudo.",
+      "Hervir las espinacas.",
+      "Freír la carne picada.",
+      "Juntar todo y añadir 2 huevos.",
+      "Introducir la mezcla en el horno a 180 °C durante unos 10 minutos.",
+      "Añadir por encima los 2 huevos adicionales batidos.",
+      "Terminar unos minutos al grill."
+    ],
+    "tip": "Los huevos de la cobertura se baten; no se cuecen aparte."
+  },
+  {
+    "title": "Solomillo de cerdo al cava",
+    "category": "Carnes",
+    "time": "40 min (20 min de preparación y 20 min de cocción)",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "cerdo",
+      "cava",
+      "champiñones"
+    ],
+    "ingredients": [
+      "1 solomillo de cerdo de unos 700 g",
+      "1 vaso de nata líquida",
+      "¼ kg de champiñones",
+      "1 vaso de cava",
+      "2 ajos",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "steps": [
+      "Cortar el solomillo y freírlo en una sartén junto con los ajos.",
+      "Añadir los champiñones cortados en láminas.",
+      "Incorporar el vaso de cava y cocinar unos 10 minutos.",
+      "Añadir la nata líquida.",
+      "Cocinar otros 10 minutos, hasta que la salsa quede bien integrada."
+    ],
+    "tip": "Cocinar 10 minutos con el cava y otros 10 minutos después de añadir la nata."
+  },
+  {
+    "title": "Redondo de lomo de cerdo",
+    "category": "Carnes",
+    "time": "40 min de preparación + 20 min a presión, más el tiempo de alcanzar y perder presión",
+    "servings": "4 personas",
+    "difficulty": "Fácil",
+    "tags": [
+      "lomo de cerdo",
+      "olla a presión"
+    ],
+    "ingredients": [
+      "500–600 g de lomo de cerdo",
+      "½ cebolla",
+      "5 o 6 zanahorias",
+      "2 dientes de ajo",
+      "Sal",
+      "Pimienta",
+      "Aceite de oliva",
+      "1 vaso de vino",
+      "1 vaso de agua"
+    ],
+    "steps": [
+      "Poner aceite en una olla y sellar el lomo, girándolo hasta dorarlo por fuera.",
+      "Añadir la cebolla, la zanahoria y el ajo.",
+      "Incorporar 1 vaso de vino y 1 vaso de agua, ajustando según el vino utilizado. El manuscrito indica un mínimo de ¼ de litro de líquido.",
+      "Cerrar y cocinar unos 20 minutos a fuego medio desde que suba la presión.",
+      "Abrir cuando haya perdido la presión, comprobar el punto de la carne y servir cortada en rodajas con su salsa."
+    ],
+    "tip": "Abrir la olla únicamente cuando haya perdido la presión."
   }
 ];
