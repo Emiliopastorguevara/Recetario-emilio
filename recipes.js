@@ -3555,5 +3555,136 @@ const recipes = [
       "Abrir cuando haya perdido la presión, comprobar el punto de la carne y servir cortada en rodajas con su salsa."
     ],
     "tip": "Abrir la olla únicamente cuando haya perdido la presión."
+  },
+  {
+    "title": "Pollo con verduras",
+    "category": "Carnes",
+    "time": "45 min aproximadamente",
+    "servings": "No indicadas",
+    "difficulty": "Fácil",
+    "tags": [
+      "pollo",
+      "verduras"
+    ],
+    "ingredients": [
+      "1,5 kg aproximadamente de contramuslos de pollo deshuesados",
+      "2 cebollas",
+      "2 pimientos",
+      "3 zanahorias",
+      "2 calabacines",
+      "3 dientes de ajo",
+      "1 tomate grande",
+      "75–100 ml de vino blanco",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Cortar los contramuslos de pollo en trozos grandes y salpimentarlos.",
+      "Calentar el aceite en una cazuela amplia y dorar ligeramente el pollo. Retirar y reservar.",
+      "En la misma cazuela, añadir las cebollas y los pimientos cortados en trozos y las zanahorias en rodajas. Cocinar a fuego medio hasta que empiecen a ablandarse.",
+      "Incorporar los calabacines y los dientes de ajo picados.",
+      "Añadir el vino blanco y dejar cocinar un par de minutos para que se evapore el alcohol.",
+      "Incorporar el tomate natural troceado y cocinar unos minutos más.",
+      "Volver a poner el pollo en la cazuela y mezclarlo con todas las verduras.",
+      "Cocinar a fuego medio-bajo hasta que el pollo esté completamente hecho y las verduras tiernas, removiendo de vez en cuando.",
+      "Probar y rectificar de sal y pimienta antes de servir."
+    ],
+    "tip": "No es necesario añadir caldo ni triturar las verduras. El tomate, el calabacín y el resto de las verduras van soltando líquido durante la cocción y, junto con el vino blanco, forman una salsa ligera. Conservación: se conserva en el frigorífico durante 2–3 días y también se puede congelar una vez frío."
+  },
+  {
+    "title": "Garbanzos salteados con gambones",
+    "category": "Legumbres",
+    "time": "15 min",
+    "servings": "2 personas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "garbanzos",
+      "gambones",
+      "pimentón"
+    ],
+    "ingredients": [
+      "400 g de garbanzos cocidos",
+      "8–10 gambones",
+      "½ cebolla",
+      "1 cucharadita rasa de pimentón dulce",
+      "1 cucharada de aceite de oliva virgen extra",
+      "Sal"
+    ],
+    "steps": [
+      "Escurrir bien los garbanzos y reservar.",
+      "Pelar los gambones.",
+      "Picar la cebolla y pocharla en una sartén con el aceite de oliva, a fuego medio, hasta que quede tierna.",
+      "Incorporar los gambones y saltearlos brevemente, aproximadamente 1 minuto por cada lado.",
+      "Bajar el fuego, añadir el pimentón y remover rápidamente para que no se queme.",
+      "Incorporar inmediatamente los garbanzos.",
+      "Saltear todo junto durante 4–5 minutos, removiendo con cuidado para que los garbanzos cojan el sabor de la cebolla, los gambones y el pimentón.",
+      "Probar, rectificar de sal y servir caliente."
+    ],
+    "tip": "El único punto delicado es el pimentón: conviene añadirlo con el fuego bajo y echar inmediatamente después los garbanzos para evitar que se queme y amargue."
+  },
+  {
+    "title": "Quiche de jamón y queso",
+    "category": "Entrantes",
+    "time": "50–60 min aproximadamente",
+    "servings": "No indicadas",
+    "difficulty": "Fácil",
+    "tags": [
+      "quiche",
+      "jamón",
+      "queso",
+      "horno"
+    ],
+    "ingredients": [
+      "1 lámina de masa quebrada",
+      "4 huevos",
+      "200 ml de nata para cocinar",
+      "150 g de jamón de York",
+      "200 g de queso",
+      "Sal",
+      "10–12 garbanzos secos (opcional, para el prehorneado)"
+    ],
+    "steps": [
+      "Preparar la masa. Colocar la masa quebrada en el molde, adaptándola bien a la base y a los bordes. Pinchar ligeramente toda la superficie con un tenedor para evitar que se infle.",
+      "Prehornear. Si se desea, colocar 10–12 garbanzos secos repartidos sobre la masa como peso. Prehornear a 180 °C durante 10 minutos, únicamente para que la masa coja algo de consistencia.",
+      "Preparar el jamón y el queso. Trocear muy fino el jamón de York y el queso. Ponerlos juntos en un bol, añadir sal y mezclar bien.",
+      "Preparar la mezcla líquida. En otro recipiente, poner los 4 huevos y los 200 ml de nata. Batirlos juntos hasta conseguir una mezcla homogénea.",
+      "Unir el relleno. Verter la mezcla de nata y huevo en el bol con el jamón, el queso y la sal. Mezclar bien para repartir todos los ingredientes.",
+      "Rellenar. Sacar la masa del horno y retirar los garbanzos si se han utilizado. Verter toda la mezcla sobre la masa prehorneada.",
+      "Hornear. Volver a introducir en el horno a 180 °C durante 30–40 minutos. Empezar a vigilar la quiche alrededor de los 35 minutos, ya que el tiempo puede variar según la potencia del horno. Estará lista cuando el relleno esté cuajado y la superficie ligeramente dorada.",
+      "Reposar. Dejar templar unos minutos antes de cortar y servir."
+    ],
+    "tip": "El tiempo final depende del horno. A partir de los 35 minutos conviene comprobar el punto para evitar que la quiche se haga demasiado y quede seca."
+  },
+  {
+    "title": "Flan de queso",
+    "category": "Postres",
+    "time": "15 min + 24 h de reposo",
+    "servings": "No indicadas",
+    "difficulty": "Muy fácil",
+    "tags": [
+      "flan",
+      "queso",
+      "sin horno"
+    ],
+    "ingredients": [
+      "1 tarrina de queso Philadelphia",
+      "6 cucharadas soperas de azúcar",
+      "1 vaso de leche",
+      "1 sobre de cuajada Royal",
+      "½ litro de nata para montar",
+      "Caramelo líquido"
+    ],
+    "steps": [
+      "Disolver el sobre de cuajada en el vaso de leche, removiendo bien hasta que no queden grumos.",
+      "Poner en un cazo el queso Philadelphia, el azúcar, la nata y la mezcla de leche y cuajada.",
+      "Cubrir el fondo de un molde para flan con una capa de caramelo líquido.",
+      "Calentar la mezcla del cazo a fuego medio, removiendo continuamente para que no se pegue.",
+      "Cuando la mezcla empiece a hervir, retirar del fuego.",
+      "Verter inmediatamente la mezcla en el molde caramelizado.",
+      "Dejar templar a temperatura ambiente.",
+      "Introducir en el frigorífico y dejar reposar aproximadamente 24 horas antes de desmoldar."
+    ],
+    "tip": "Conviene prepararlo el día anterior. Para desmoldarlo con facilidad, pasar suavemente un cuchillo fino por el borde del molde y volcarlo sobre una fuente."
   }
 ];
