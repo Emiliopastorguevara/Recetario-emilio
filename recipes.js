@@ -3686,5 +3686,35 @@ const recipes = [
       "Introducir en el frigorífico y dejar reposar aproximadamente 24 horas antes de desmoldar."
     ],
     "tip": "Conviene prepararlo el día anterior. Para desmoldarlo con facilidad, pasar suavemente un cuchillo fino por el borde del molde y volcarlo sobre una fuente."
-  }
+  },
+{
+  "title": "Merluza guisada con patatas y tomate",
+  "category": "Pescados",
+  "time": "40-45 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["merluza", "patatas", "tomate", "guiso", "pescado"],
+  "ingredients": [
+    "4 lomos de merluza (150-180 g por persona)",
+    "4 patatas medianas",
+    "2 tomates maduros",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "100 ml de vino blanco",
+    "200 ml de fumet de pescado",
+    "1 cucharadita de pimentón dulce",
+    "Aceite de oliva virgen extra",
+    "Sal y pimienta",
+    "Perejil fresco (opcional)"
+  ],
+  "steps": [
+    "En una cazuela amplia, calienta un poco de aceite de oliva. Añade la cebolla finamente picada y sofríe a fuego medio unos 8 minutos. Incorpora los ajos picados y cocina 1 minuto más. Retira momentáneamente del fuego, añade el pimentón y remueve para evitar que se queme.",
+    "Pela las patatas y córtalas en rodajas de medio centímetro. Distribúyelas sobre el sofrito en una capa uniforme. Coloca encima los tomates cortados en rodajas y salpimenta ligeramente.",
+    "Vierte el vino blanco y deja hervir 2-3 minutos con la cazuela destapada. Añade el fumet, procurando que el líquido no cubra completamente las patatas.",
+    "Tapa y cocina a fuego medio-bajo durante 20-25 minutos, hasta que las patatas estén prácticamente tiernas. Si se reduce demasiado el líquido, añade un poco más de fumet caliente.",
+    "Coloca los lomos de merluza sobre las patatas y el tomate. Sazona ligeramente, tapa y cocina a fuego suave 5-7 minutos, según el grosor, hasta que la merluza esté opaca y se separe fácilmente en lascas.",
+    "Apaga el fuego, deja reposar 2 minutos con la cazuela tapada y sirve caliente, con perejil fresco si lo deseas."
+  ],
+  "tip": "Comprueba que las patatas estén casi tiernas antes de añadir la merluza para que el pescado no se cocine en exceso. Utiliza un fumet de buena calidad y ajusta la sal si ya viene sazonado."
+}
 ];
