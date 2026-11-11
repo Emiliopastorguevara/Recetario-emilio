@@ -3716,5 +3716,142 @@ const recipes = [
     "Apaga el fuego, deja reposar 2 minutos con la cazuela tapada y sirve caliente, con perejil fresco si lo deseas."
   ],
   "tip": "Comprueba que las patatas estén casi tiernas antes de añadir la merluza para que el pescado no se cocine en exceso. Utiliza un fumet de buena calidad y ajusta la sal si ya viene sazonado."
+},
+
+{
+  "title": "Solomillo al whisky",
+  "category": "Carnes",
+  "time": "35 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["cerdo", "solomillo", "whisky", "sevillano"],
+  "ingredients": [
+    "2 solomillos de cerdo (unos 800 g)",
+    "8 dientes de ajo con piel, ligeramente aplastados",
+    "100 ml de whisky",
+    "150 ml de caldo de carne",
+    "Zumo de medio limón",
+    "4 cucharadas de aceite de oliva virgen extra",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Limpiar los solomillos, cortarlos en medallones de unos 2 cm y salpimentar.",
+    "Dorar los ajos enteros y ligeramente aplastados en aceite a fuego medio. Retirar y reservar.",
+    "Marcar los medallones por ambos lados a fuego medio-alto y reservar.",
+    "Apartar la sartén del fuego, incorporar el whisky y devolverla al calor. Reducir durante 2-3 minutos.",
+    "Añadir el caldo, el limón y los ajos. Cocinar a fuego medio 5 minutos.",
+    "Devolver el solomillo a la sartén y cocinar 3-5 minutos más, según el grosor, hasta que esté hecho.",
+    "Dejar reposar 2 minutos y servir con la salsa."
+  ],
+  "tip": "Servir con patatas fritas y conservar salsa suficiente para mojar pan."
+},
+{
+  "title": "Solomillo con nata y mostaza",
+  "category": "Carnes",
+  "time": "30 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["cerdo", "solomillo", "nata", "mostaza"],
+  "ingredients": [
+    "2 solomillos de cerdo (unos 800 g)",
+    "200 ml de nata para cocinar",
+    "2 cucharadas de mostaza de Dijon",
+    "1 cebolla pequeña",
+    "100 ml de caldo de carne",
+    "50 ml de vino blanco",
+    "2 cucharadas de aceite de oliva virgen extra",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Cortar el solomillo limpio en medallones de unos 2 cm y salpimentar.",
+    "Dorar los medallones en aceite por ambos lados y reservar.",
+    "Pochar la cebolla finamente picada en la misma sartén durante 8-10 minutos.",
+    "Incorporar el vino blanco y reducir 2 minutos.",
+    "Añadir el caldo y la mostaza y mezclar bien.",
+    "Agregar la nata y cocinar suavemente 3-4 minutos, sin hervir con fuerza.",
+    "Devolver los medallones a la sartén y cocinar 4-5 minutos más, hasta que estén hechos y la salsa cremosa."
+  ],
+  "tip": "Para una salsa más suave, combinar una cucharada de mostaza de Dijon con otra de mostaza antigua."
+},
+{
+  "title": "Pollo con salsa de zanahorias",
+  "category": "Carnes",
+  "time": "45-50 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["pollo", "zanahorias", "guiso", "salsa"],
+  "ingredients": [
+    "800 g de contramuslos de pollo",
+    "4 zanahorias (350-400 g)",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "100 ml de vino blanco",
+    "200 ml de caldo de pollo",
+    "2 cucharadas de aceite de oliva virgen extra",
+    "1 hoja de laurel",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Salpimentar el pollo, dorarlo en una cazuela con el aceite durante 5-7 minutos y reservar.",
+    "En el mismo aceite, pochar la cebolla, el ajo y las zanahorias troceadas unos 10 minutos.",
+    "Incorporar el vino blanco y dejar reducir 3-4 minutos.",
+    "Añadir el caldo, el laurel y el pollo. Tapar y cocinar a fuego suave 20-25 minutos, hasta que el pollo esté hecho.",
+    "Retirar el pollo y la hoja de laurel. Triturar las verduras con el líquido de cocción hasta conseguir una salsa homogénea.",
+    "Volver a introducir el pollo en la salsa y cocinar 3 minutos más. Ajustar de sal y servir."
+  ],
+  "tip": "La salsa se espesa con la propia zanahoria: no lleva harina ni nata."
+},
+{
+  "title": "Bacalao al horno sobre pisto de verduras",
+  "category": "Pescados",
+  "time": "50 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["bacalao", "horno", "pisto", "verduras"],
+  "ingredients": [
+    "4 lomos de bacalao desalado",
+    "1 calabacín",
+    "1 pimiento rojo",
+    "1 pimiento verde",
+    "1 cebolla",
+    "2 tomates maduros o 200 g de tomate triturado",
+    "2 dientes de ajo",
+    "3 cucharadas de aceite de oliva virgen extra",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Picar la cebolla y el ajo. Sofreírlos en aceite de oliva unos 5 minutos.",
+    "Añadir los pimientos cortados en dados y cocinar 8 minutos.",
+    "Incorporar el calabacín troceado y cocinar otros 7 minutos.",
+    "Agregar los tomates rallados o triturados, salpimentar con moderación y cocinar 10-15 minutos, hasta obtener un pisto jugoso.",
+    "Extender el pisto en una fuente de horno y colocar encima los lomos de bacalao.",
+    "Hornear a 190 °C durante 15-20 minutos, según el grosor de los lomos, hasta que el pescado esté en su punto."
+  ],
+  "tip": "El pisto puede prepararse el día anterior y guardarse en la nevera. Si entra frío al horno, puede necesitar unos minutos adicionales."
+},
+{
+  "title": "Alcachofas salteadas con ajo y gambas",
+  "category": "Verduras",
+  "time": "25 min",
+  "servings": "4 personas",
+  "difficulty": "Fácil",
+  "tags": ["alcachofas", "gambas", "ajo", "salteado"],
+  "ingredients": [
+    "800 g de alcachofas troceadas congeladas (2 bolsas de 400 g)",
+    "300 g de gambas peladas",
+    "3 dientes de ajo",
+    "Aceite de oliva virgen extra",
+    "Sal y pimienta"
+  ],
+  "steps": [
+    "Sin descongelar, poner las alcachofas en una sartén amplia con un poco de aceite. Tapar y cocinar a fuego medio 10-12 minutos, removiendo de vez en cuando, o hasta que estén tiernas.",
+    "Destapar y dejar que se evapore el agua que hayan soltado las alcachofas.",
+    "En otra sartén, dorar ligeramente los tres dientes de ajo laminados con aceite de oliva.",
+    "Añadir las gambas peladas y saltearlas 2-3 minutos, hasta que estén hechas.",
+    "Incorporar las gambas y los ajos a las alcachofas, mezclar y saltear todo junto otros 2 minutos. Ajustar de sal y pimienta."
+  ],
+  "tip": "Evitar que quede agua en la sartén antes de mezclar las alcachofas con las gambas."
 }
+];
+
 ];
